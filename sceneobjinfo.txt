@@ -1,0 +1,637 @@
+//scripted by skyfear919@hotmail.com
+1	by-bd001.lmo	Argent Palace 01	0	0	0	0	1	0	1	0	1	0
+2	by-bd002.lmo	Argent Navy Admi	0	0	0	0	1	0	1	0	1	0
+3	by-bd003.lmo	Argent Bank HQ 0	0	0	0	0	1	0	1	0	1	0
+4	by-bd004.lmo	Argent Commerce 	0	0	0	0	1	0	1	0	1	0
+5	by-bd005.lmo	Argent Blacksmit	0	0	0	0	1	1	1	0	1	1
+6	nml-bd141.lmo	Whirlpool 01	0	0	0	0	0	0	9	0	1	0
+7	by-bd007.lmo	Argent Trading P	0	0	0	0	1	0	1	0	1	0
+8	by-bd008.lmo	Argent Shipyard 	0	0	0	0	1	0	1	0	1	0
+9	by-bd009.lmo	Argent Deep Blue	0	0	0	0	1	0	1	0	1	0
+10	by-bd010.lmo	Argent Bar 01	0	0	0	0	0	0	1	0	1	0
+11	by-bd011.lmo	Argent Church 01	0	0	0	0	1	0	1	0	1	0
+12	nml-bd150.lmo	Broken Bridge 01	0	0	0	0	1	0	9	0	1	1
+13	by-bd013.lmo	Argent Lighthous	0	0	0	0	0	0	1	0	1	0
+14	by-bd014-1.lmo	Argent Harbor Mo	0	0	0	0	1	0	1	0	1	0
+15	by-bd014-2.lmo	Argent Harbor Mo	0	0	0	0	1	0	1	0	1	0
+16	by-bd014-3.lmo	Argent Harbor Co	0	0	0	0	1	0	1	0	1	0
+17	by-bd014-4.lmo	Argent Harbor Co	0	0	0	0	1	0	1	0	1	0
+18	by-bd014-5.lmo	Argent Harbor Ho	0	0	0	0	1	0	1	0	1	0
+19	by-bd014-6.lmo	Argent Harbor St	0	0	0	0	1	0	1	0	1	0
+20	by-bd014-7.lmo	Argent Harbor Ca	0	0	0	0	1	0	1	0	1	0
+21	by-bd014-8.lmo	Argent Harbor Cr	0	0	0	0	1	0	1	0	1	0
+22	by-bd015.lmo	Argent Bell Towe	0	0	0	0	0	0	1	0	1	0
+23	by-bd016.lmo	Argent House 01	0	0	0	0	1	1	1	0	1	0
+24	by-bd017.lmo	Argent House 02	0	0	0	0	1	0	1	0	1	0
+25	by-bd018.lmo	Argent Guardhous	0	0	0	0	1	0	1	0	1	0
+26	nml-bd151.lmo	Volcano 01	0	0	0	0	0	0	9	0	1	1
+27	by-bd020.lmo	Argent Warehouse	0	0	0	0	1	0	1	0	1	0
+28	nml-bd152.lmo	Aquatic Rock 01	0	0	0	0	1	0	9	0	1	1
+29	by-bd022.lmo	Argent Waterwhee	0	0	0	0	1	0	1	0	1	0
+30	by-bd023.lmo	Argent Harbor St	0	0	0	0	1	0	1	0	1	0
+31	by-bd024.lmo	Argent Harbor St	0	0	0	0	1	0	1	0	1	0
+32	by-bd025.lmo	Argent Harbor St	0	0	0	0	1	0	1	0	1	0
+33	by-bd026.lmo	Argent Harbor Ce	0	0	0	0	1	0	1	0	1	0
+34	by-bd027.lmo	Argent Church Be	0	0	0	0	1	0	1	0	1	0
+35	nml-bd153.lmo	Underwater Statu	0	0	0	0	1	0	9	0	1	1
+36	by-bd036.lmo	Argent Street La	0	0	0	0	1	0	1	0	1	0
+37	by-bd037.lmo	Argent City Fenc	0	0	0	0	1	0	1	0	1	0
+38	by-bd038.lmo	Argent Gate Pill	0	0	0	0	1	0	1	0	1	0
+39	by-bd039.lmo	Argent City Wall	0	0	0	0	1	0	1	0	1	0
+40	by-bd040.lmo	Argent Gate 01	0	0	0	0	1	0	1	0	1	0
+41	lt-bd038.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+42	lt-bd002.lmo	Thundoria Navy H	0	0	0	0	1	0	2	0	1	0
+43	lt-bd001-01.lmo	Thundoria Palace	0	0	0	0	1	0	2	0	1	0
+44	lt-bd001-02.lmo	Thundoria Palace	0	0	0	0	1	0	2	0	1	0
+45	lt-bd005.lmo	Thundoria Blacks	0	0	0	0	1	0	2	0	1	0
+46	sl-bd038.lmo	Old Shaitan Wall	0	0	0	0	1	0	3	0	1	1
+47	lt-bd007.lmo	Thundoria Bank 0	0	0	0	0	1	0	2	0	1	0
+48	sl-bd039.lmo	Old Shaitan Wall	0	0	0	0	1	0	3	0	1	1
+49	lt-bd009.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+50	lt-bd011.lmo	Thundoria Statue	0	0	0	0	1	0	2	0	1	0
+51	lt-bd012.lmo	Thundoria Memori	0	0	0	0	1	0	2	0	1	0
+52	lt-bd018-11.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+53	lt-bd036-03.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+54	lt-bd014.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+55	lt-bd015.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+56	lt-bd016.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+57	lt-bd017.lmo	Thundoria Apron 	0	0	0	0	1	0	2	0	1	0
+58	lt-bd018-01.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+59	lt-bd018-02.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+60	lt-bd018-03.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+61	lt-bd018-04.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+62	lt-bd018-05.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+63	lt-bd018-06.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+64	lt-bd018-07.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+65	lt-bd018-08.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+66	lt-bd019.lmo	Thundoria 3m Ste	0	0	0	0	1	0	2	0	1	1
+67	lt-bd020.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	1
+68	lt-bd021.lmo	Thundoria Street	0	0	0	0	1	0	2	0	1	0
+69	lt-bd022.lmo	Thundoria Pond 0	0	0	0	0	0	0	2	0	1	0
+70	lt-bd024.lmo	Thundoria Castle	0	0	0	0	1	0	2	0	1	0
+71	lt-bd025-01.lmo	Camp 01	0	0	0	0	1	0	2	0	1	0
+72	lt-bd025-02.lmo	Camp 02	0	0	0	0	1	0	2	0	1	0
+73	lt-bd025-03.lmo	Camp 03	0	0	0	0	1	0	2	0	1	0
+74	lt-bd025-04.lmo	Camp 04	0	0	0	0	1	0	2	0	1	0
+75	lt-bd025-05.lmo	Camp 05	0	0	0	0	1	0	2	0	1	0
+76	lt-bd025-06.lmo	Camp 06	0	0	0	0	1	0	2	0	1	0
+77	lt-bd025-07.lmo	Camp 07	0	0	0	0	1	0	2	0	1	0
+78	lt-bd025-08.lmo	Camp 08	0	0	0	0	1	0	2	0	1	0
+79	lt-bd013-01.lmo	Thundoria Navy H	0	0	0	0	1	0	2	0	1	1
+80	lt-bd013-02.lmo	Thundoria Navy H	0	0	0	0	1	0	2	0	1	1
+81	lt-bd013-03.lmo	Thundoria Navy H	0	0	0	0	1	0	2	0	1	1
+82	lt-bd013-04.lmo	Thundoria Navy H	0	0	0	0	1	0	2	0	1	1
+83	lt-bd025-09.lmo	Military Tent 01	0	0	0	0	1	0	2	0	1	0
+84	lt-bd026.lmo	Cannon 01	0	0	0	0	1	0	2	0	1	0
+85	lt-bd018-09.lmo	Thundoria Gate 0	0	0	0	0	1	0	2	0	1	0
+86	lt-bd018-10.lmo	Thundoria Gate 0	0	0	0	0	1	0	2	0	1	0
+87	lt-bd027.lmo	Cannon 02	0	0	0	0	1	0	2	0	1	0
+88	lt-bd028.lmo	Thundoria Inn 01	0	0	0	0	1	0	2	0	1	0
+89	lt-bd029.lmo	Thundoria Arrow 	0	0	0	0	1	0	2	0	1	0
+90	lt-bd030.lmo	Lone Tower 01	0	0	0	0	1	1	7	0	1	1
+91	lt-bd031.lmo 	Thundoria Table 	0	0	0	0	1	0	2	0	1	0
+92	lt-bd032.lmo 	Thundoria Chair 	0	0	0	0	1	0	2	0	1	0
+93	lt-bd033.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+94	lt-bd034.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+95	lt-bd035.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+96	lt-bd036-01.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+97	lt-bd036-02.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+98	lt-bd037.lmo	Thundoria Harbor	0	0	0	0	1	0	2	0	1	0
+99	nml-bd138.lmo	Floating Leaf 01	0	0	0	0	1	1	8	0	1	0
+100	nml-bd139.lmo	Fence 01	0	0	0	0	1	1	9	0	1	1
+101	nml-bd140.lmo	Snowy Fence 01	0	0	0	0	1	1	9	0	1	1
+102	sl-bd001.lmo	New Kara Shrine 	0	0	0	0	1	0	3	0	1	0
+103	sl-bd005.lmo	Shaitan Bank 01	0	0	0	0	1	0	3	0	1	0
+104	sl-bd008.lmo	Shaitan Grocery 	0	0	0	0	1	0	3	0	1	0
+105	sl-bd009.lmo	Shaitan Bar 01	0	0	0	0	1	0	3	0	1	0
+106	sl-bd012.lmo	Shaitan Blacksmi	0	0	0	0	1	0	3	0	1	0
+107	sl-bd006.lmo	Shaitan Crab Sta	0	0	0	0	1	0	3	0	1	0
+108	sl-bd010.lmo	Shaitan Commerce	0	0	0	0	1	0	3	0	1	0
+109	sl-bd007.lmo	Shaitan Inn 01	0	0	0	0	1	0	3	0	1	0
+110	sl-bd003.lmo	Shaitan Commerce	0	0	0	0	1	0	3	0	1	0
+111	sl-bd004.lmo	Shaitan Navy Off	0	0	0	0	1	0	3	0	1	0
+112	sl-bd013.lmo	Shaitan Lighthou	0	0	0	0	1	0	3	0	1	0
+113	sl-bd026-01.lmo	Shaitan Canal 01	0	0	0	0	0	0	3	0	1	0
+114	sl-bd026-02.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+115	sl-bd026-03.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+116	sl-bd026-04.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+117	sl-bd026-05.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+118	sl-bd026-06.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+119	sl-bd026-07.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+120	sl-bd026-08.lmo	Shaitan Aqueduct	0	0	0	0	0	0	3	0	1	0
+121	sl-bd015.lmo	Shaitan Waterwhe	0	0	0	0	0	0	3	0	1	0
+122	sl-bd019.lmo	Shaitan Room 01	0	0	0	0	1	0	3	0	1	0
+123	sl-bd020.lmo	Shaitan Bungalow	0	0	0	0	1	0	3	0	1	0
+124	sl-bd025.lmo	Shaitan Fruit Ca	0	0	0	0	1	0	3	0	1	0
+125	sl-bd011.lmo	Shaitan Flame To	0	0	0	0	1	0	3	0	1	0
+126	sl-bd021.lmo	Shaitan Tent 01	0	0	0	0	1	0	3	0	1	1
+127	sl-bd032-01.lmo	Shaitan Stave 01	0	0	0	0	1	0	3	0	1	0
+128	sl-bd032-02.lmo	Shaitan Stave 02	0	0	0	0	1	0	3	0	1	0
+129	sl-bd032-03.lmo	Shaitan Stave 03	0	0	0	0	1	0	3	0	1	0
+130	sl-bd014-01.lmo	Shaitan Harbor 0	0	0	0	0	1	0	3	0	1	0
+131	sl-bd014-02.lmo	Shaitan Harbor 0	0	0	0	0	1	0	3	0	1	0
+132	sl-bd014-03.lmo	Shaitan Harbor 0	0	0	0	0	1	0	3	0	1	0
+133	sl-bd014-04.lmo	Shaitan Harbor P	0	0	0	0	1	0	3	0	1	0
+134	sl-bd014-05.lmo	Shaitan Harbor P	0	0	0	0	1	0	3	0	1	0
+135	sl-bd017-01.lmo	Shaitan Wall 01	0	0	0	0	1	0	3	0	1	0
+136	sl-bd017-02.lmo	Shaitan Wall 02	0	0	0	0	1	0	3	0	1	0
+137	sl-bd017-03.lmo	Shaitan Wall 03	0	0	0	0	1	0	3	0	1	0
+138	sl-bd032.lmo	Shaitan Chair 01	0	0	0	0	1	0	3	0	1	0
+139	sl-bd033.lmo	Shaitan Table 01	0	0	0	0	1	0	3	0	1	0
+140	sl-bd034.lmo	Shaitan Parasol 	0	0	0	0	1	0	3	0	1	0
+141	sl-bd026-09.lmo	Shaitan Aqueduct	0	0	0	0	1	1	3	0	1	1
+142	sl-bd030.lmo	Old Shaitan Rubb	0	0	0	0	1	1	3	0	1	1
+143	sl-bd028-01.lmo	Shaitan Abandone	0	0	0	0	1	1	3	0	1	1
+144	sl-bd028-02.lmo	Shaitan Abandone	0	0	0	0	1	1	3	0	1	1
+145	sl-bd031.lmo	Shaitan Broken S	0	0	0	0	1	1	3	0	1	1
+146	sl-bd028-03.lmo	Shaitan Abandone	0	0	0	0	1	1	3	0	1	1
+147	sl-bd028-04.lmo	Shaitan Abandone	0	0	0	0	1	1	3	0	1	1
+148	sl-bd035.lmo	Shaitan Wooden S	0	0	0	0	1	1	3	0	1	1
+149	sl-bd036.lmo	Shaitan Ship Fac	0	0	0	0	1	1	3	0	1	1
+150	sl-bd037.lmo	Shaitan Pond 01	0	0	0	0	0	0	3	0	1	0
+151	bl-bd001.lmo	Icicle Grocery 0	0	0	0	0	1	0	4	0	1	1
+152	bl-bd002.lmo	Icicle Commerce 	0	0	0	0	1	0	4	0	1	1
+153	bl-bd003.lmo	Icicle Rampart 0	0	0	0	0	1	0	4	0	1	1
+154	bl-bd004.lmo	Icicle House 01	0	0	0	0	1	0	4	0	1	1
+155	bl-bd005-01.lmo	Icicle Rubbles 0	0	0	0	0	1	0	4	0	1	1
+156	bl-bd005-02.lmo	Icicle Rubbles 0	0	0	0	0	1	0	4	0	1	1
+157	bl-bd005-03.lmo	Icicle Rubbles 0	0	0	0	0	1	0	4	0	1	1
+158	bl-bd006.lmo	Icicle Blacksmit	0	0	0	0	1	1	4	0	1	1
+159	bl-bd007.lmo	Icicle Hotel 01	0	0	0	0	1	0	4	0	1	1
+160	bl-bd008-01.lmo	Icicle Wall 01	0	0	0	0	1	0	4	0	1	1
+161	bl-bd008-02.lmo	Icicle Wall 02	0	0	0	0	1	0	4	0	1	1
+162	bl-bd008-03.lmo	Icicle Wall 03	0	0	0	0	1	0	4	0	1	1
+163	bl-bd008-04.lmo	Icicle Wall 04	0	0	0	0	1	0	4	0	1	1
+164	bl-bd009.lmo	Snowy Crate 01	0	0	0	0	1	1	4	0	1	1
+165	bl-bd010.lmo	Snow Crate 01	0	0	0	0	1	1	4	0	1	1
+166	bl-bd011.lmo	Snow Barrel 01	0	0	0	0	1	1	4	0	1	1
+167	bl-bd012.lmo	Snow Stump 01	0	0	0	0	1	1	4	0	1	1
+168	bl-bd013.lmo	Icicle Castle 01	0	0	0	0	1	1	4	0	1	1
+169	bl-bd014.lmo	Icicle Statue 01	0	0	0	0	0	1	4	0	1	1
+170	bl-bd015.lmo	Icicle Statue 02	0	0	0	0	0	1	4	0	1	1
+171	bl-bd016.lmo	Icicle Pool 01	0	0	0	0	0	0	4	0	1	0
+172	bl-bd017.lmo	Icicle Castle Pi	0	0	0	0	1	0	4	0	1	1
+173	nml-bd142.lmo	Fog 01	0	0	0	0	0	0	9	0	1	0
+174	nml-bd143.lmo	Fire 01	0	0	0	0	0	0	9	0	1	0
+175	nml-bd144.lmo	Ice Tree 01	0	0	0	0	0	0	8	0	1	1
+176	nml-bd145.lmo	Autumn Hut 01	0	0	0	0	1	1	9	0	1	1
+177	nml-bd146.lmo	Autumn Altar 01	0	0	0	0	1	1	9	0	1	1
+178	nml-bd147.lmo	Mini Tent 01	0	0	0	0	1	1	9	0	1	1
+179	nml-bd148-01.lmo	Number two maze 	0	0	0	0	1	1	9	0	1	1
+180	nml-bd148-02.lmo	Number two labyr	0	0	0	0	1	1	9	0	1	1
+181	nml-bd149.lmo	Falling Bamboo L	0	0	0	0	1	1	9	0	1	1
+182	nml-bd136.lmo	Yellow Flowery G	0	0	0	0	1	1	8	0	1	1
+183	nml-bd135.lmo	Fat Green Tree 0	0	0	0	0	1	1	8	0	1	1
+184	nml-bd137.lmo	Fat Tree 01	0	0	0	0	1	1	8	0	1	1
+185	mz-bd025.lmo	Mine Labyrinth I	0	0	0	0	0	1	7	0	1	1
+186	mz-bd024.lmo	Lamp 01	0	0	0	0	1	1	7	0	1	1
+187	nml-bd134.lmo	Green Twin Tree 	0	0	0	0	1	1	8	0	1	1
+188	nml-bd133.lmo	Crimson Twin Tre	0	0	0	0	1	1	8	0	1	1
+189	nml-bd132.lmo	Red Coconut Tree	0	0	0	0	1	1	8	0	1	1
+190	nml-bd131.lmo	Red Coconut Tree	0	0	0	0	1	1	8	0	1	1
+191	mz-bd023.lmo	Mini Tramcar 01	0	0	0	0	1	1	7	0	1	1
+192	mz-bd022.lmo	Labyrinth Black 	0	0	0	0	0	1	7	0	1	1
+193	mz-bd021.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+194	mz-bd020.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+195	mz-bd019.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+196	mz-bd018.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+197	mz-bd017.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+198	mz-bd016.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+199	mz-bd015.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+200	mz-bd014.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+201	mz-bd013.lmo	Mine Labyrinth M	0	0	0	0	0	1	7	0	1	1
+202	mz-bd011-06.lmo	Mine Labyrinth G	0	0	0	0	1	1	7	0	1	0
+203	mz-bd011-05.lmo	Mine Labyrinth G	0	0	0	0	1	1	7	0	1	0
+204	mz-bd011-04.lmo	Mine Labyrinth G	0	0	0	0	1	1	7	0	1	1
+205	mz-bd011-03.lmo	Mine Labyrinth G	0	0	0	0	1	1	7	0	1	1
+206	mz-bd011-02.lmo	Mine Labyrinth G	0	0	0	0	1	1	7	0	1	0
+207	mz-bd011-01.lmo	Mine Labyrinth G	0	0	0	0	1	1	7	0	1	0
+208	nml-bd130.lmo	Conch 01	0	0	0	0	1	1	9	0	1	1
+209	nml-bd129.lmo	Firepile 01	0	0	0	0	1	1	9	0	1	1
+210	nml-bd128-04.lmo	Snow Mountain Mo	0	0	0	0	0	0	9	0	1	0
+211	nml-bd128-03.lmo	Snow Mountain Mo	0	0	0	0	0	0	9	0	1	0
+212	nml-bd128-02.lmo	Snow Mountain Mo	0	0	0	0	0	0	9	0	1	0
+213	nml-bd128-01.lmo	Snow Mountain Mo	0	0	0	0	0	0	9	0	1	0
+214	nml-bd127.lmo	Thundra Snowy Tr	0	0	0	0	1	0	8	0	1	1
+215	nml-bd126.lmo	Red Maple 01	0	0	0	0	1	0	8	0	1	1
+216	nml-bd125.lmo	Snow Maple Tree 	0	0	0	0	1	0	8	0	1	1
+217	nml-bd124.lmo	New Snow Grass 0	0	0	0	0	0	0	8	0	0	1
+218	nml-bd123.lmo	Forest Snow Tree	0	0	0	0	1	1	8	0	1	1
+219	nml-bd122.lmo	Forest Snow Tree	0	0	0	0	1	1	8	0	1	1
+220	nml-bd121.lmo	Withered Snow Tr	0	0	0	0	1	1	8	0	1	1
+221	nml-bd120.lmo	Special Effect S	0	0	0	0	1	1	9	0	1	1
+222	nml-bd119.lmo	Snowy Weird Tree	0	0	0	0	1	1	8	0	1	1
+223	nml-bd118.lmo	Tundra Snowy Tre	0	0	0	0	1	1	8	0	1	1
+224	nml-bd117.lmo	Tundra Snowball 	0	0	0	0	1	1	8	0	1	1
+225	nml-bd116.lmo	Sand Grass Tree 	0	0	0	0	1	1	8	0	1	1
+226	nml-bd115.lmo	Fern Grass 01	0	0	0	0	1	1	8	0	1	1
+227	nml-bd114.lmo	Sand Strange Tre	0	0	0	0	1	1	8	0	1	1
+228	nml-bd113.lmo	Cactus 01	0	0	0	0	1	1	8	0	1	1
+229	nml-bd112.lmo	Big Sand Rock 01	0	0	0	0	1	0	9	0	1	1
+230	nml-bd111.lmo	Sand 01	0	0	0	0	1	0	9	0	1	1
+231	nml-bd110.lmo	Sand Grass 02	0	0	0	0	0	0	8	0	0	1
+232	nml-bd109.lmo	Sand Grass 01	0	0	0	0	0	0	8	0	0	1
+233	mz-bd005.lmo	Pool 03	0	0	0	0	0	1	7	0	1	1
+234	nml-bd108.lmo	New Barrel Group	0	0	0	0	1	1	9	0	1	1
+235	nml-bd107.lmo	New Cask 01	0	0	0	0	1	1	9	0	1	1
+236	nml-bd106.lmo	Grass Fence 02	0	0	0	0	1	0	7	0	1	1
+237	nml-bd105.lmo	Grass Wall 01	0	0	0	0	1	0	7	0	1	1
+238	nml-bd104.lmo	Keel 01	0	0	0	0	1	1	9	0	1	1
+239	nml-bd103.lmo	Dragon Bone 01	0	0	0	0	1	1	9	0	1	1
+240	nml-bd102.lmo	Dragon Bone 01	0	0	0	0	1	1	9	0	1	1
+241	nml-bd101.lmo	Big Stump01	0	0	0	0	1	1	8	0	1	1
+242	nml-bd100.lmo	Desert Flower 01	0	0	0	0	1	1	8	0	1	1
+243	nml-bd099.lmo	Desert Tree 01	0	0	0	0	1	1	8	0	1	1
+244	nml-bd098.lmo	Tree Ball Flower	0	0	0	0	1	1	8	0	1	1
+245	nml-bd097.lmo	New Grass 04	0	0	0	0	1	0	8	0	1	1
+246	mz-bd010.lmo	Pillar 01	0	0	0	0	0	1	7	0	1	1
+247	nml-bd096.lmo	Lumber Mill 01	0	0	0	0	1	0	9	0	1	0
+248	nml-bd095.lmo	Blossom 02	0	0	0	0	1	0	8	0	1	0
+249	mz-bd009.lmo	Pool 06	0	0	0	0	0	1	7	0	1	1
+250	mz-bd008.lmo	Pool 05	0	0	0	0	0	1	7	0	1	1
+251	mz-bd007.lmo	Palace Statue 01	0	0	0	0	0	1	7	0	1	1
+252	mz-bd006.lmo	Pool 04	0	0	0	0	0	1	7	0	1	1
+253	mz-bd011.lmo	Maze Wall 03	0	0	0	0	0	1	7	0	1	1
+254	mz-bd004.lmo	Pool 02	0	0	0	0	0	1	7	0	1	1
+255	mz-bd003.lmo	Pool 01	0	0	0	0	0	1	7	0	1	1
+256	mz-bd002.lmo	Wall 02	0	0	0	0	0	1	7	0	1	1
+257	mz-bd001.lmo	Wall 01	0	0	0	0	0	1	7	0	1	1
+258	nml-bd094.lmo	Flower 01	0	0	0	0	1	0	8	0	1	0
+259	nml-bd093.lmo	New Grass 03	0	0	0	0	1	0	8	0	1	1
+260	nml-bd092.lmo	New Tree 01	0	0	0	0	1	0	8	0	1	1
+261	nml-bd091.lmo	Grass 01	0	0	0	0	1	0	8	0	1	0
+262	nml-bd090.lmo	Fountain 01	0	0	0	0	0	0	9	0	1	0
+263	nml-bd089.lmo	Stone Bench 01	0	0	0	0	1	0	9	0	1	1
+264	nml-bd088.lmo	Peach Tree 02	0	0	0	0	1	0	8	0	1	0
+265	nml-bd087.lmo	Cherry Tree 01	0	0	0	0	1	0	8	0	1	0
+266	nml-bd086.lmo	New Grass 02	0	0	0	0	1	1	8	0	1	1
+267	nml-bd085.lmo	New Grass 01	0	0	0	0	1	1	8	0	1	1
+268	nml-bd084.lmo	Flower 07	0	0	0	0	0	0	8	0	0	1
+269	nml-bd083.lmo	Crimson Tree 01	0	0	0	0	1	0	8	0	1	1
+270	nml-bd082.lmo	Thousand Old Tre	0	0	0	0	1	0	8	0	1	0
+271	nml-bd081.lmo	Oil Barrel 01	0	0	0	0	1	0	9	0	1	0
+272	nml-bd080.lmo	Little Yellow La	0	0	0	0	1	0	9	0	1	0
+273	nml-bd079.lmo	Traffic Lamp 01	0	0	0	0	1	0	9	0	1	0
+274	nml-bd078.lmo	Turning Edge 01	0	0	0	0	1	0	9	0	1	0
+275	nml-bd077.lmo	6m Step 01	0	0	0	0	1	0	9	0	1	0
+276	nml-bd076.lmo	2m Stave 01	0	0	0	0	1	0	9	0	1	0
+277	nml-bd075.lmo	Small Icicle 01	0	0	0	0	0	0	9	0	1	1
+278	nml-bd074.lmo	Big Ice Pillar 0	0	0	0	0	0	0	9	0	1	1
+279	nml-bd073.lmo	Old Tree 01	0	0	0	0	1	1	8	0	1	1
+280	nml-bd072.lmo	Bamboo 02	0	0	0	0	1	0	8	0	1	1
+281	nml-bd071.lmo	Bamboo 01	0	0	0	0	1	0	8	0	1	1
+282	nml-bd070.lmo	Revolving Light 	0	0	0	0	1	1	9	0	1	1
+283	nml-bd069.lmo	Ocean Canteen	0	0	0	0	1	0	9	0	1	0
+284	nml-bd068.lmo	Snowy Stone 01	0	0	0	0	1	0	9	0	1	1
+285	nml-bd067.lmo	Boat 02	0	0	0	0	1	0	9	0	1	1
+286	nml-bd066.lmo	Snowy Rock 01	0	0	0	0	1	0	9	0	1	1
+287	sl-bd040.lmo	Old Shaitan Wall	0	0	0	0	1	0	3	0	1	1
+288	sl-bd041.lmo	Old Shaitan Wall	0	0	0	0	1	0	3	0	1	1
+289	nml-bd063.lmo	Red Mango Grass 	0	0	0	0	1	0	8	0	1	0
+290	nml-bd062.lmo	Forest Trees 02	0	0	0	0	1	1	8	0	1	1
+291	nml-bd061.lmo	Forest Tree 01	0	0	0	0	1	1	8	0	1	1
+292	nml-bd060.lmo	Flower 06	0	0	0	0	0	0	8	0	0	1
+293	nml-bd059.lmo	Bridge 01	0	0	0	0	1	1	9	0	1	1
+294	nml-bd058.lmo	Small Bench 01	0	0	0	0	1	0	9	0	1	0
+295	nml-bd057.lmo	Rock 02	0	0	0	0	1	1	9	0	1	1
+296	nml-bd056.lmo	Rock 01	0	0	0	0	1	1	9	0	1	1
+297	nml-bd055.lmo	Flower 05	0	0	0	0	0	0	8	0	0	1
+298	nml-bd054.lmo	Tree 12	0	0	0	0	1	1	8	0	1	1
+299	nml-bd053.lmo	Tree 11	0	0	0	0	0	0	8	0	1	0
+300	nml-bd052.lmo	Tree 10	0	0	0	0	0	0	8	0	1	0
+301	nml-bd051.lmo	Fore 01	0	0	0	0	1	0	9	0	1	1
+302	nml-bd048.lmo	Bench 02	0	0	0	0	1	0	9	0	1	1
+303	nml-bd047.lmo	Market 01	0	0	0	0	1	0	1	0	1	0
+304	nml-bd046.lmo	Signpost 02	0	0	0	0	1	0	9	0	1	0
+305	nml-bd045.lmo	Singpost 01	0	0	0	0	1	0	9	0	1	0
+306	nml-bd044.lmo	Barrel Board Ima	0	0	0	0	1	0	9	0	1	1
+307	nml-bd043.lmo	Barrel Board Ima	0	0	0	0	1	0	9	0	1	1
+308	nml-bd042.lmo	Barrel Board Ima	0	0	0	0	1	0	9	0	1	1
+309	nml-bd041.lmo	Metal Fence Pill	0	0	0	0	1	0	9	0	1	0
+310	nml-bd040.lmo	Metal Fence 01	0	0	0	0	1	0	9	0	1	0
+311	nml-bd039.lmo	Pergola 01	0	0	0	0	1	0	9	0	1	0
+312	nml-bd038.lmo	Table 01	0	0	0	0	1	0	9	0	1	0
+313	nml-bd037.lmo	Rattan Chair 01	0	0	0	0	1	0	9	0	1	0
+314	nml-bd036.lmo	Bench 01	0	0	0	0	1	0	1	0	1	0
+315	nml-bd035.lmo	Flower 04	0	0	0	0	1	0	8	0	1	0
+316	nml-bd034.lmo	Grass 06	0	0	0	0	0	0	8	0	0	1
+317	nml-bd033.lmo	Blossom 02	0	0	0	0	1	0	8	0	1	1
+318	nml-bd032.lmo	Flower 01	0	0	0	0	1	0	8	0	1	1
+319	nml-bd031.lmo	Flower Grass 01	0	0	0	0	1	0	8	0	1	0
+320	nml-bd030.lmo	Flower Pot 03	0	0	0	0	1	0	9	0	1	1
+321	nml-bd029.lmo	Flower Pot 02	0	0	0	0	1	0	9	0	1	1
+322	nml-bd028.lmo	Flower Pot 01	0	0	0	0	1	0	9	0	1	1
+323	nml-bd027.lmo	Garden 01	0	0	0	0	1	0	9	0	1	0
+324	nml-bd026.lmo	Withered Trunk 0	0	0	0	0	1	0	8	0	1	1
+325	nml-bd025.lmo	Grass 04	0	0	0	0	0	0	8	0	0	1
+326	nml-bd024.lmo	Grass 03	0	0	0	0	1	0	8	0	1	0
+327	nml-bd023.lmo	Grass 02	0	0	0	0	1	0	8	0	1	0
+328	nml-bd022.lmo	Grass 01	0	0	0	0	0	0	8	0	1	0
+329	nml-bd021.lmo	Tree 09	0	0	0	0	1	0	8	0	1	0
+330	nml-bd020.lmo	Tree 08	0	0	0	0	1	0	8	0	1	0
+331	nml-bd019.lmo	Tree 07	0	0	0	0	1	0	8	0	1	0
+332	nml-bd018.lmo	Flower 08	0	0	0	0	1	0	8	0	1	0
+333	nml-bd017.lmo	Tree 05	0	0	0	0	1	0	8	0	1	0
+334	nml-bd049.lmo	Sand Shop01	0	0	0	0	1	0	9	0	1	0
+335	nml-bd015.lmo	Tree 03	0	0	0	0	1	0	8	0	1	0
+336	nml-bd014.lmo	Tree 02	0	0	0	0	1	0	8	0	1	0
+337	nml-bd013.lmo	Tree 01	0	0	0	0	1	0	8	0	1	0
+338	nml-bd012.lmo	Road Notice 03	0	0	0	0	1	0	9	0	1	0
+339	nml-bd011.lmo	Road Strip 02	0	0	0	0	1	0	9	0	1	0
+340	nml-bd010.lmo	Road Strip 01	0	0	0	0	1	0	9	0	1	0
+341	nml-bd009.lmo	Wooden Crate 01	0	0	0	0	1	0	9	0	1	1
+342	nml-bd008.lmo	Big Chest 01	0	0	0	0	1	0	9	0	1	1
+343	nml-bd007.lmo	Birdship 01	0	0	0	0	1	0	9	0	1	1
+344	nml-bd050.lmo	Stump 01	0	0	0	0	1	0	8	0	1	0
+345	nml-bd006.lmo	Fruit Cart 01	0	0	0	0	1	0	1	0	1	0
+346	nml-bd005.lmo	Wine Barrel 01	0	0	0	0	1	0	9	0	1	0
+347	nml-bd004.lmo	Wooden Barrel 01	0	0	0	0	1	0	9	0	1	0
+348	nml-bd003.lmo	Crate Swarm 01	0	0	0	0	1	0	9	0	1	1
+349	nml-bd002.lmo	Fruit Crate 01	0	0	0	0	1	0	9	0	1	0
+350	nml-bd001.lmo	Small Crate 01	0	0	0	0	1	0	9	0	1	0
+351	yyyy001.lmo	Sit 1	1	0	0	0	1	0	200	0	1	0
+352	yyyy002.lmo	Lean 1	1	0	0	0	1	0	200	0	1	0
+353	yyyy003.lmo	Impassable 7	2	0	0	0	1	0	200	0	1	0
+354	yyyy004.lmo	Passable 7	2	0	0	0	1	0	200	0	1	0
+355	yyyy005.lmo	Passable 3	2	0	0	0	1	0	200	0	1	0
+356	yyyy006.lmo	Impassable 3	2	0	0	0	1	0	200	0	1	0
+360	2-1.lmo	Impassable 3	0	0	0	0	1	1	5	0	1	0
+361	3-1.lmo	Impassable 3	0	0	0	0	1	1	5	0	1	0
+363	5-1.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+370	FB_ZJCCZ_wuqizao_0003.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+371	FB_ZJCCZ_wuqizao_0002.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+372	FB_ZJCCZ_wuqizao_0001.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+373	FB_ZJCCZ_tuiche_0002.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+374	FB_ZJCCZ_muxiang_0003.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+375	FB_ZJCCZ_muchai_0002.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+377	FB_ZJCCZ_fangzi_0003.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+378	FB_ZJCCZ_fangzi_0002.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+380	FB_ZJCCZ_dengzi_0001.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+384	FB_TTT_diaosu_01.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+385	FB_ttts_penquan_0001.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+386	FB_ttts_diaoxiang_0002.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+391	FB_SGSD_bosstaizi_0001.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+392	FB_SDHJ_shu_0002.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+393	FB_SDHJ_shu_0001.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+394	FB_SDHJ_shu_0003.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+400	yyyy007.lmo	Lamp 01	3	0,255,0	10,1,2	0	1	0	200	0	1	0
+401	yyyy007.lmo	Lamp 02	3	0,255,0	10,1,0	0	1	0	200	0	1	0
+402	yyyy007.lmo	Lamp 03	3	0,18,255	10,1,3	0	1	0	200	0	1	0
+403	yyyy007.lmo	Lamp 04	3	27,80,250	10,1,1	0	1	0	200	0	1	0
+404	yyyy007.lmo	Lmap 05	3	248,228,137	3,1,6	0	1	0	200	0	1	0
+405	yyyy007.lmo	Lamp 06	3	60,69,137	10,1,5	0	1	0	200	0	1	0
+406	yyyy007.lmo	Lamp 07	3	248,228,137	3,1,4	0	1	0	200	0	1	0
+407	yyyy007.lmo	Lamp 08	3	250,120,50	6,1,7	0	1	0	200	0	1	0
+408	yyyy007.lmo	Lamp 09	3	25,226,153	3,1,8	0	1	0	200	0	1	0
+412	FB_BSFB_caibao_02.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+413	FB_BSFB_caibao_01.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+420	cc-bd030.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+421	nml-bd154.lmo	Wooden Harbor Mo	0	0	0	0	1	1	9	0	1	1
+422	nml-bd155.lmo	Wooden Harbor Mo	0	0	0	0	1	1	9	0	1	1
+423	nml-bd156.lmo	Wooden Harbor Mo	0	0	0	0	1	1	9	0	1	1
+424	nml-bd157.lmo	Wooden Harbor Mo	0	0	0	0	1	1	9	0	1	1
+425	nml-bd158.lmo	Icy Mountain 01	0	0	0	0	1	1	9	0	1	1
+426	nml-bd159.lmo	Icy Mountain 02	0	0	0	0	1	1	9	0	1	1
+427	nml-bd160.lmo	Ocean Graveyard 	0	0	0	0	1	1	9	0	1	1
+428	nml-bd161.lmo	Ocean Graveyard 	0	0	0	0	1	1	9	0	1	1
+429	nml-bd162.lmo	Ocean Graveyard 	0	0	0	0	1	1	9	0	1	1
+430	nml-bd163.lmo	Abandoned Mine E	0	7,0,1,2,3,4,5,6	0	0	0	0	9	0	1	0
+431	nml-bd164.lmo	Floating Ball 01	0	0	0	0	1	1	9	0	1	1
+432	nml-bd165.lmo	Floating Plank 0	0	0	0	0	1	1	9	0	1	1
+433	nml-bd166.lmo	Turning Tree 01	0	0	0	0	1	1	8	0	1	1
+434	nml-bd167.lmo	Fish Swarm 01	0	0	0	0	1	1	9	0	1	1
+435	login.lmo	Login Interface	0	0	0	0	0	0	0	0	1	0
+436	nml-bd169.lmo	Dried Wood 01	0	0	0	0	1	1	8	0	1	1
+437	nml-bd170.lmo	Mushroom 01	0	0	0	0	1	1	8	0	1	1
+438	nml-bd171.lmo	Fluorescent Gras	0	0	0	0	1	1	8	0	1	1
+439	nml-bd168.lmo	Yellow Grass 01	0	0	0	0	1	1	8	0	1	1
+440	mz-bd026.lmo	Desert Labyrinth	0	9,7,8,9,10,11,12,13,14,15	0	0	0	0	7	0	1	0
+441	nml-bd172.lmo	Desert Labyrinth	0	0	0	0	0	1	8	0	1	1
+442	mz-bd027.lmo	Desert Labyrinth	0	0	0	0	0	1	7	0	1	1
+443	mz-bd028.lmo	Desert Labyrinth	0	0	0	0	0	1	7	0	1	1
+444	mz-bd029.lmo	Desert Labyrinth	0	0	0	0	0	1	7	0	1	1
+445	mz-bd030.lmo	Desert Labyrinth	0	0	0	0	0	1	7	0	1	1
+446	nml-bd173.lmo	Big Leave Tree 0	0	0	0	0	1	1	8	0	1	1
+447	nml-bd174.lmo	Withered Tree 01	0	0	0	0	1	1	8	0	1	1
+448	nml-bd175.lmo	Small Tree 01	0	0	0	0	1	1	8	0	1	1
+449	by-bd041.lmo	Argent Harbor Ba	0	11,16,17,18,19,20,21,22,23,24,25,26	0	0	0	0	1	0	1	0
+450	nml-bd176.lmo	Forest Labyrinth	0	0	0	0	1	1	7	0	1	1
+451	nml-bd177.lmo	Forest Labyrinth	0	0	0	0	1	1	7	0	1	1
+452	nml-bd178.lmo	Forest Labyrinth	0	0	0	0	1	1	7	0	1	1
+453	nml-bd179.lmo	Forest Maze Modu	0	0	0	0	1	1	7	0	1	1
+454	nml-bd180.lmo	Forest Maze Modu	0	0	0	0	1	1	7	0	1	1
+455	nml-bd181.lmo	Forest Labyrinth	0	0	0	0	1	1	7	0	1	1
+456	nml-bd182.lmo	Forest Labyrinth	0	0	0	0	1	1	7	0	1	1
+457	nml-bd183.lmo	Yellow Grass 01	0	0	0	0	1	1	8	0	1	1
+458	nml-bd184.lmo	Little Grass 01	0	0	0	0	0	0	8	0	0	1
+459	nml-bd185.lmo	Rosebush 01	0	0	0	0	1	1	8	0	1	1
+460	nml-bd186.lmo	Autumn Grass 01	0	0	0	0	0	0	8	0	0	1
+461	nml-bd187.lmo	Erected Small Tr	0	0	0	0	1	1	8	0	1	1
+462	nml-bd188.lmo	Summer Island Hu	0	0	0	0	1	1	9	0	1	1
+463	nml-bd189.lmo	Summer Island Wa	0	0	0	0	0	0	9	0	1	0
+464	nml-bd190.lmo	Summer Island Wa	0	0	0	0	0	0	9	0	1	0
+465	nml-bd191.lmo	Summer Island Wa	0	0	0	0	0	0	9	0	1	0
+466	nml-bd192.lmo	Fallen Leaf 01	0	0	0	0	0	0	9	0	1	0
+467	nml-bd193.lmo	Fallen Leaf 02	0	0	0	0	0	0	9	0	1	0
+468	nml-bd194.lmo	Fallen Leaf 03	0	0	0	0	0	0	9	0	1	0
+469	by-bd019.lmo	Argent Harbor Ga	0	0	0	0	1	1	1	0	1	0
+470	nml-bd195.lmo	Harbor Statue 01	0	0	0	0	1	1	9	0	1	0
+471	by-bd028.lmo	Argent Pier 01	0	0	0	0	1	1	1	0	1	0
+472	by-bd029.lmo	Argent Bank Sign	0	0	0	0	1	1	1	0	1	0
+473	by-bd030.lmo	Argent Bar Signb	0	0	0	0	1	1	1	0	1	0
+474	by-bd031.lmo	Argent Weaponry 	0	0	0	0	1	1	1	0	1	0
+475	by-bd032.lmo	Argent Herb Sign	0	0	0	0	1	1	1	0	1	0
+476	by-bd033.lmo	Argent Grocery S	0	0	0	0	1	1	1	0	1	0
+477	by-bd034.lmo	Argent Tailor Si	0	0	0	0	1	1	1	0	1	0
+478	by-bd035.lmo	Argent Commerce 	0	0	0	0	1	1	1	0	1	0
+480	yyyy080.lmo	Wave Sound Effec	6	env_surf	2500	0	1	0	200	0	1	0
+481	yyyy080.lmo	Worm Sound Effec	6	env_insect	2500	0	1	0	200	0	1	0
+482	yyyy080.lmo	Cicada Sound Eff	6	env_cicada	2500	0	1	0	200	0	1	0
+483	yyyy080.lmo	Chirping Sound E	6	env_bird1	2500	0	1	0	200	0	1	0
+484	yyyy080.lmo	Chirping Sound 2	6	env_bird2	2500	0	1	0	200	0	1	0
+485	yyyy080.lmo	Chilling Sound E	6	env_bise	2500	0	1	0	200	0	1	0
+486	yyyy080.lmo	Shipyard Sound E	6	env_ship	2500	0	1	0	200	0	1	0
+487	yyyy080.lmo	Factory Sound Ef	6	env_BlackSmi	2500	0	1	0	200	0	1	0
+488	yyyy080.lmo	Fountain Sound E	6	env_fountain	2500	0	1	0	200	0	1	0
+489	yyyy080.lmo	River Sound Effe	6	env_ghyll	2500	0	1	0	200	0	1	0
+496	kyjj-bd05-01.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+501	by-bd042.lmo	New Road Sign 01	0	0	0	0	1	0	1	0	1	0
+502	by-bd043.lmo	Argent Ship Fact	0	0	0	0	1	0	1	0	1	0
+503	by-bd044.lmo	Navy Admin Post 	0	0	0	0	1	0	1	0	1	0
+504	bl-bd018.lmo	Icicle Harbor Mo	0	0	0	0	1	0	4	0	1	1
+505	bl-bd019.lmo	Icicle Harbor Mo	0	0	0	0	1	0	4	0	1	1
+506	bl-bd020.lmo	Icicle Harbor Mo	0	0	0	0	1	0	4	0	1	1
+507	by-bd045.lmo	Argent Navy Recr	0	0	0	0	1	0	1	0	1	0
+508	by-bd046.lmo	Argent Bounty To	0	0	0	0	1	0	1	0	1	0
+509	nml-bd196.lmo	Lighthouse 01	0	0	0	0	1	1	9	0	1	0
+510	nml-bd197.lmo	Buoy 01	0	0	0	0	1	1	9	0	1	0
+511	nml-bd198.lmo	Ball Float 01	0	0	0	0	1	1	9	0	1	0
+512	login02.lmo	Login Interface 	0	0	0	0	0	0	0	0	1	0
+513	nml-bd199.lmo	Butterfly 01	0	0	0	0	1	0	9	0	1	0
+514	nml-bd200.lmo	Buoy 02	0	0	0	0	1	1	9	0	1	0
+515	by-bd047.lmo	Argent City Trad	0	8,0,1,2,3,4,5,6,7	0	0	1	0	1	0	1	0
+516	by-bd048.lmo	Argent Trading P	0	0	0	0	1	1	1	0	1	0
+517	sl-bd042.lmo	Shaitan Trading 	0	10,0,1,2,3,4,5,6,7,8,9	0	0	1	1	3	0	1	0
+518	nml-bd201.lmo	Harbor Sign 01	0	0	0	0	1	1	9	0	1	0
+519	lt-bd039.lmo	Thundoria Tradin	0	9,0,1,2,3,4,5,6,7,8	0	0	0	0	2	0	1	0
+520	bl-bd021.lmo	Icicle Trading P	0	8,0,1,2,3,4,5,6,7	0	0	1	1	4	0	1	1
+521	sl-bd043.lmo	Shaitan Harbor 0	0	0	0	0	1	1	3	0	1	0
+522	sl-bd044.lmo	Shaitan Harbor 0	0	0	0	0	1	1	3	0	1	0
+523	cc-bd001.lmo	Spring Town Bell	0	0	0	0	1	1	5	0	1	0
+524	cc-bd002.lmo	Spring Town Tave	0	0	0	0	1	1	5	0	1	0
+525	cc-bd003.lmo	Spring Town Wall	0	0	0	0	1	1	5	0	1	0
+526	cc-bd004.lmo	Spring Town Wall	0	0	0	0	1	1	5	0	1	0
+527	cc-bd005.lmo	Spring Town Wall	0	0	0	0	1	1	5	0	1	0
+528	cc-bd006.lmo	Spring Town Wall	0	0	0	0	1	1	5	0	1	0
+529	cc-bd007.lmo	Spring Town Wind	0	0	0	0	1	1	5	0	1	0
+530	cc-bd008.lmo	Spring Town Hous	0	0	0	0	1	1	5	0	1	0
+531	cc-bd009.lmo	Spring Town Pine	0	0	0	0	1	1	5	0	1	0
+532	cc-bd010.lmo	Spring Town Lamp	0	0	0	0	1	1	5	0	1	0
+533	cc-bd011.lmo	Spring Town Mast	0	0	0	0	1	1	5	0	1	0
+534	cc-bd012.lmo	Spring Town Pine	0	0	0	0	1	1	5	0	1	0
+535	cc-bd013.lmo	Spring Town Temp	0	0	0	0	1	1	5	0	1	0
+536	cc-bd014.lmo	Spring Town Brid	0	0	0	0	1	1	5	0	1	0
+537	cc-bd015.lmo	Spring Town Bun 	0	0	0	0	1	1	5	0	1	0
+538	cc-bd016.lmo	Spring Town Butc	0	0	0	0	1	1	5	0	1	0
+539	cc-bd017.lmo	Spring Town Rock	0	0	0	0	1	1	5	0	1	0
+540	cc-bd018.lmo	Spring Town Lant	0	0	0	0	1	1	5	0	1	0
+541	cc-bd019.lmo	Spring Town Lant	0	0	0	0	1	1	5	0	1	0
+542	cc-bd020.lmo	Spring Town Sand	0	0	0	0	1	1	5	0	1	1
+543	cc-bd021.lmo	Spring Town Pede	0	0	0	0	1	1	5	0	1	1
+544	cc-bd022.lmo	Spring Town Pape	0	0	0	0	1	1	5	0	1	0
+545	cc-bd023.lmo	Spring Town Hous	0	0	0	0	1	1	5	0	1	0
+546	cc-bd024.lmo	Spring Town Bric	0	0	0	0	1	1	5	0	1	0
+547	cc-bd025.lmo	Spring Town Pavi	0	0	0	0	1	1	5	0	1	1
+548	cc-bd026.lmo	Spring Town Pavi	0	0	0	0	1	1	5	0	1	0
+549	cc-bd027.lmo	Spring Town Pill	0	0	0	0	1	1	5	0	1	0
+550	cc-bd028.lmo	Spring Town Para	0	0	0	0	1	1	5	0	1	0
+551	cc-bd029.lmo	Spring Town Trad	0	1,2	0	0	0	0	5	0	1	0
+552	cc-bd030.lmo	Spring Town Pear	0	0	0	0	1	1	5	0	1	0
+553	cc-bd031.lmo	Spring Town Bloc	0	0	0	0	1	1	5	0	1	0
+554	cc-bd032.lmo	Spring Town Hous	0	0	0	0	1	1	5	0	1	0
+555	cc-bd033.lmo	Spring Town Fenc	0	0	0	0	1	1	5	0	1	0
+556	cc-bd034.lmo	Spring Town Fenc	0	0	0	0	1	1	5	0	1	0
+557	cc-bd035.lmo	Spring Town Fenc	0	0	0	0	1	1	5	0	1	0
+558	cc-bd036.lmo	Spring Town Lily	0	0	0	0	1	1	5	0	1	0
+559	cc-bd037.lmo	Spring Town Bamb	0	0	0	0	1	1	5	0	1	1
+560	cc-bd038.lmo	Spring Town Bamb	0	0	0	0	1	1	5	0	1	1
+561	cc-bd039.lmo	Spring Town Fenc	0	0	0	0	1	1	5	0	1	1
+562	cc-bd040.lmo	Spring Harbor 01	0	0	0	0	1	1	5	0	1	1
+563	cc-bd041.lmo	Spring Town Lant	0	0	0	0	1	1	5	0	1	1
+564	cc-bd042.lmo	Spring Town Ship	0	0	0	0	1	1	5	0	1	0
+565	cc-bd043.lmo	Spring Town Ship	0	0	0	0	1	1	5	0	1	0
+566	cc-bd044.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+567	cc-bd045.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+568	cc-bd046.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+569	cc-bd047.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+570	mz-bd099.lmo	Labyrinth Black 	0	0	0	0	0	1	7	0	1	1
+571	cc-bd049.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+572	cc-bd050.lmo	Underwater Junk 	0	0	0	0	0	1	5	0	1	1
+573	cc-bd051.lmo	Underground Tunn	0	0	0	0	0	1	5	0	1	1
+574	cc-bd052.lmo	Underground Tunn	0	0	0	0	0	1	5	0	1	1
+575	cc-bd053.lmo	Dirty Bottle 01	0	0	0	0	0	1	5	0	1	1
+576	cc-bd054.lmo	Carcass 01	0	0	0	0	0	1	5	0	1	1
+577	cc-bd055.lmo	Spring Town Ship	0	0	0	0	1	1	5	0	1	0
+578	cc-bd056.lmo	Spring Town Smal	0	0	0	0	1	1	5	0	1	0
+579	cc-bd057.lmo	Spring Town Wood	0	0	0	0	1	1	5	0	1	0
+580	cc-bd058.lmo	Underwater Tunne	0	0	0	0	0	1	5	0	1	1
+581	cc-bd059.lmo	Underwater Tunne	0	0	0	0	0	1	5	0	1	1
+582	cc-bd060.lmo	Fish Swarm 02	0	0	0	0	0	1	5	0	1	1
+583	cc-bd061.lmo	Underwater Tunne	0	0	0	0	0	1	5	0	1	1
+584	cc-bd062.lmo	Underwater Tunne	0	0	0	0	0	1	5	0	1	1
+585	cc-bd063.lmo	Underwater Tunne	0	0	0	0	0	1	5	0	1	1
+586	cc-bd064.lmo	Underwater Tunne	0	0	0	0	0	1	5	0	1	1
+587	nml-bd202.lmo	Swamp Tree 01	0	0	0	0	1	1	8	0	1	1
+588	nml-bd203.lmo	Swamp Stump 01	0	0	0	0	1	1	8	0	1	1
+589	cc-bd067.lmo	Spring Town Para	0	0	0	0	1	1	5	0	1	0
+590	cc-bd068.lmo	Footprint 01	0	0	0	0	1	1	5	0	1	1
+591	cc-bd069.lmo	Spring Town Aqua	0	0	0	0	1	1	5	0	1	0
+592	nml-bd204.lmo	Swamp Stone 01	0	0	0	0	1	0	9	0	1	1
+593	nml-bd205.lmo	City of Cripple 	0	0	0	0	1	1	7	0	1	1
+594	nml-bd206.lmo	City of CrippleM	0	0	0	0	1	1	7	0	1	1
+595	nml-bd207.lmo	City of Cripple 	0	0	0	0	1	1	7	0	1	1
+596	nml-bd208.lmo	City of Cripple 	0	0	0	0	1	1	7	0	1	1
+597	nml-bd209.lmo	City of Cripple 	0	0	0	0	1	1	7	0	1	1
+598	nml-bd210.lmo	City of Cripple 	0	0	0	0	1	1	7	0	1	1
+599	cc-bd077.lmo	Tree 013	0	0	0	0	1	1	8	0	1	1
+600	nml-bd211.lmo	Demonic Wall 01	0	0	0	0	0	1	7	0	1	1
+601	nml-bd212.lmo	Demonic Wall 03	0	0	0	0	0	1	7	0	1	1
+602	nml-bd213.lmo	Demonic Spike 01	0	0	0	0	0	1	7	0	1	1
+603	nml-bd214.lmo	Demonic Wall 05	0	0	0	0	0	1	7	0	1	1
+604	nml-bd215.lmo	Demonic Wall 04	0	0	0	0	0	1	7	0	1	1
+605	nml-bd216.lmo	Demonic Wall 06	0	0	0	0	0	1	7	0	1	1
+606	nml-bd217.lmo	Demonic Statue 0	0	0	0	0	0	1	7	0	1	1
+607	nml-bd218.lmo	Demonic Pool 01	0	0	0	0	0	1	7	0	1	1
+608	nml-bd219.lmo	Demonic Pool 02	0	0	0	0	0	1	7	0	1	1
+609	nml-bd220.lmo	Demonic Pool 03	0	0	0	0	0	1	7	0	1	1
+610	nml-bd221.lmo	Demonic Pool 04	0	0	0	0	0	1	7	0	1	1
+611	nml-bd222.lmo	Demonic Wall 02	0	0	0	0	0	1	7	0	1	1
+612	cc-bd065.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+613	cc-bd066.lmo	Spring Town Unde	0	0	0	0	0	1	5	0	1	1
+614	cc-bd071.lmo	Spring Town Bar 	0	0	0	0	1	1	5	0	1	0
+615	cc-bd072.lmo	Spring Town Hair	0	0	0	0	1	1	5	0	1	0
+616	cc-bd073.lmo	Spring Town Acce	0	0	0	0	1	1	5	0	1	0
+617	cc-bd074.lmo	Spring Town Bank	0	0	0	0	1	1	5	0	1	0
+618	cc-bdhq.lmo	Underwater Black	0	0	0	0	0	1	5	0	1	1
+619	hlcx02.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+620	hlcx03.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+621	hlcx04.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+622	hlcx05.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+623	hlcx06.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+624	hlcx07.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+625	hlcx08.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+626	hlcx09.lmo	Black Dragon Lai	0	0	0	0	0	1	5	0	1	1
+627	hlcx-gh.lmo	Ghost Flame	0	0	0	0	0	0	5	0	1	0
+628	hlcx-rk.lmo	Black Dragon Lai	0	0	0	0	1	1	5	0	1	0
+629	hlcx-bx.lmo	Treasure Chest	0	0	0	0	0	1	5	0	1	1
+630	hdsd01.lmo	Seabed Tunnel En	0	0	0	0	1	1	5	0	1	1
+631	long001.lmo	Black Dragon Lai	0	0	0	0	0	0	5	0	1	0
+632	hlcx-ck.lmo	Black Dragon Lai	0	0	0	0	1	1	5	0	1	0
+633	cc-bddxsdrk.lmo	Underwater Tunne	0	0	0	0	1	1	5	0	1	1
+634	cc-bd075.lmo	Gate of Spring T	0	0	0	0	1	1	5	0	1	0
+635	hdmgrk01.lmo	Pirate Base Entr	0	1,2	0	0	1	1	5	0	1	1
+636	hdwjsj001.lmo	Calculator	0	0	0	0	1	1	5	0	1	1
+637	hdwblg001.lmo	Glass Bottle	0	0	0	0	1	1	5	0	1	1
+638	hdjd-cbd01.lmo	Treasure pile 01	0	0	0	0	1	1	5	0	1	1
+639	ys_jiaotang.lmo	Cathedral	0	0	0	0	1	1	5	0	1	1
+640	jtsn.lmo	In the Cathedral	0	0	0	0	1	1	5	0	1	1
+641	sbm.lmo	Drape	0	0	0	0	1	1	5	0	1	0
+642	ys_ditan.lmo	yy carpet	0	0	0	0	1	0	5	0	1	0
+643	07hdw_hualanbai.lmo	Corbeil	0	0	0	0	1	0	5	0	1	0
+644	xmas_hengfu.lmo	Xmas Banner	0	0	0	0	1	0	5	0	1	0
+645	xmas_caidai.lmo	Christmas Ribbon	0	0	0	0	1	0	5	0	1	0
+646	dd_bd001.lmo	Winter Island Ha	0	0	0	0	1	0	5	0	1	1
+647	dd_bd002.lmo	Winter Island Dr	0	0	0	0	1	0	5	0	1	1
+648	dd_bd003.lmo	Snow Grass	0	0	0	0	1	0	5	0	1	1
+649	dd_bd004.lmo	Snow Gravel	0	0	0	0	1	0	5	0	1	1
+650	dd_bd006.lmo	Snow Stone	0	0	0	0	1	0	5	0	1	1
+651	dd_bd007.lmo	Snow Tree 	0	0	0	0	1	0	5	0	1	1
+652	dd_bd008.lmo	Winter Island Br	0	0	0	0	1	0	5	0	1	1
+653	dd_bd009.lmo	Winter Island Ha	0	0	0	0	1	0	5	0	1	1
+654	dd_bd010.lmo	Winter Island La	0	0	0	0	1	0	5	0	1	1
+655	dd_bd011.lmo	Winter Island La	0	0	0	0	1	0	5	0	1	1
+656	dd_bd012.lmo	Winter Island La	0	0	0	0	1	0	5	0	1	1
+657	dd_bd013.lmo	Winter Island La	0	0	0	0	1	0	5	0	1	1
+658	dd_bd014.lmo	Winter Island La	0	0	0	0	1	0	5	0	1	1
+659	dd_bd015.lmo	Winter Island La	0	0	0	0	1	0	5	0	1	1
+660	MY_bd001.lmo	Treasure Room	0	0	0	0	1	0	5	0	1	1
+746	by-bd116.lmo	Argent House 03	0	0	0	0	1	0	1	0	1	0
+747	by-bd101.lmo	A. Palace 0	0	0	0	0	1	0	1	0	1	0
+749	by-bd103.lmo	A. Bank HQ 	0	0	0	0	1	0	1	0	1	0
+750	by-bd104.lmo	A. Commerce	0	0	0	0	1	0	1	0	1	0
+751	by-bd105.lmo	A. Blacksmi	0	0	0	0	1	0	1	0	1	1
+752	by-bd107.lmo	A. Trading 	0	0	0	0	1	0	1	0	1	0
+754	by-bd109.lmo	A. Deep Blu	0	0	0	0	1	0	1	0	1	0
+756	by-bd111.lmo	A. Church 0	0	0	0	0	1	0	1	0	1	0
+766	by-bd115.lmo	A. Bell Tow	0	0	0	0	0	0	1	0	1	0
+767	by-bd117.lmo	A. House 02	0	0	0	0	1	0	1	0	1	0
+775	by-bd127.lmo	A. Church B	0	0	0	0	1	0	1	0	1	0
+778	by-bd138.lmo	A. Gate Pil	0	0	0	0	1	0	1	0	1	0
+779	by-bd139.lmo	A. City Wal	0	0	0	0	1	0	1	0	1	0
+794	nml-bd106a.lmo	Fruit Cart2 01	0	0	0	0	1	0	1	0	1	0
+795	nml-bd136a.lmo	Bench2 01	0	0	0	0	1	0	1	0	1	0
+796	nml-bd147a.lmo	Market2 01	0	0	0	0	1	0	1	0	1	0
+798	nml-bd140a.lmo	Metal Fence 01	0	0	0	0	1	0	9	0	1	0
+
+
+// [Gemini.Decompiler] End of data

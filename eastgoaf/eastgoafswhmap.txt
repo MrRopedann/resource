@@ -1,0 +1,9 @@
+//Under Water Tunnel, BD Lair, Silver Mine, Abandon Mine  portal list								
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	11580,2532	-1	magicsea	130500,322300	1	Пещера 2 - Пещера 1
+2	193	1	23864,2775	-1	AUST	15000,37600	1	Зеленоград - Шахта
+3	193	1	20123,14196	-1	eastgoaf	38675,12625	1	Silver Mine 2 - Silver Mine 3
+4	193	1	37934,12443	-1	eastgoaf	20836,13475	1	Silver Mine 3 - Silver Mine 2
+
+
+

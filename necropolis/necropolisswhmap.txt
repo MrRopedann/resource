@@ -1,0 +1,2 @@
+1	193	1	9900,8000	-1	basement	8400,7800	1	Magical Ocean - Caribbean
+2	193	1	8800,11300	-1	magicsea	64100,87500	1	Magical Ocean - Caribbean

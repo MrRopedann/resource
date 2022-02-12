@@ -1,0 +1,5 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Странник	1	403	7	2500,2500	2500,2500	160	Abaddon	86	0	r_abatp	0
+2	Странник 	1	403	7	23000,2400	23000,2400	180	Abaddon	86	0	r_abatp2	0
+3	Странник  	1	403	7	22700,22400	22700,22400	330	Abaddon	86	0	r_abatp3	0
+4	Странник   	1	403	7	10700,22400	10700,22400	330	Abaddon	86	0	r_abatp4	0

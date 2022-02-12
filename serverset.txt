@@ -1,0 +1,8 @@
+//Number        Group Name         Affiliated Region              Gate Address 01         Gate Address 2          Gate Address 3         Gate Address 4 Gate Address 5
+1	Piratia #1	Innovation	178.140.174.18	0	0	0	0
+2	Server #2	Nautic Sea	127.0.0.1	0	0	0	0
+3	Server #3	Region #2	127.0.0.1	0	0	0	0
+4	Server #4	Region #2	127.0.0.1	0	0	0	0
+5	Server #5	Region #3	127.0.0.1	0	0	0	0
+6	Server #6	Region #3	127.0.0.1	0	0	0	0
+// [Gemini Decompiler] End of data.

@@ -1,0 +1,10 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	7300,18200	-1	hell3	2900,3100	1	Круз к Шарпу
+2	193	1	7300,6400	-1	hell3	15000,3100	1	Шарп к Чампу
+3	193	1	18900,6400	-1	hell3	26900,3100	1	Чамп к чампу с щитом
+4	193	1	31100,6400	-1	hell3	26900,15100	1	Чамп с щитом к шарпу с луком
+5	193	1	31100,18100	-1	hell3	27000,27100	1	Шарп с луком к см
+6	193	1	31100,30300	-1	hell3	3300,27500	1	Бк к вою
+7	193	1	6900,30300	-1	hell3	14900,27100	1	вой к см
+//8	193	1	19000,30300	-1	hell5	1900,12300	1	см в вечный абб
+

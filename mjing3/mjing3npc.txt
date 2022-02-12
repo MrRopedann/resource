@@ -1,0 +1,2 @@
+//scripted by skyfear919@hotmail.com
+1	Diablo guardian remains	1	535	7	36000,11700	36000,11700	90	暗黑秘境第一境界	185	0	d_talk26	0

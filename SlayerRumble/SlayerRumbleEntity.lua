@@ -1,0 +1,4 @@
+function InitGarnerEntity()
+end
+
+InitGarnerEntity()

@@ -1,0 +1,3 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	35225,37862	-1	magicsea	89100,357500	1	寂寞之塔1－外面
+2	193	1	54200,26900	-1	magicsea	89100,357500	1	寂寞之塔1－外面

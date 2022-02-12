@@ -1,0 +1,4 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+0	Том	1	779	0	3500,4900	3500,4900	204	Fishing	13	0	r_rybak	0
+1	Мила	1	15	0	4800,4400	4800,4400	204	Fishing	13	0	t_tpfish	0
+2	Портальщица	1	424	7	4700,9000	4700,9000	180	Fishing	13	0	t_tpfisr	0

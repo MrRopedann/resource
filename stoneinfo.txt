@@ -1,0 +1,67 @@
+1	Огненный Самоцвет 	0878	1	1	ItemHint_LieYanS
+2	Самоцвет Ярости 	0879	2,3,7	1	ItemHint_ZhiYanS
+3	Взрывной Самоцвет	0880	4	1	ItemHint_HuoYaoS
+4	Люстриновый Самоцвет 	0881	1,2,3	1	ItemHint_MaNaoS
+5	Сияющий Самоцвет 	0882	11,22,27	2	ItemHint_HanYu
+6	Блестящий Самоцвет 	0883	11,22,27	2	ItemHint_YueZhiX
+7	Теневой Самоцвет 	0884	1,2,3	2	ItemHint_ShuiLingS
+8	Самоцвет Духа 	0887	1,2,3	4	ItemHint_ShengGuangS
+9	Самоцвет Ветра 	0860	24	4	ItemHint_FengLingS
+10	Самоцвет Удара 	0861	23	4	ItemHint_YingYanS
+11	Самоцвет Колосса 	0862	11,22,27	4	ItemHint_YanVitS
+12	Самоцвет Ярости 	0863	1,2,3	4	ItemHint_YanStrS
+13	Глаз Дракона	0864	1,2,3	1	ItemHint_LongZhiTong
+14	Душа Дракона	0865	11,22,27	2	ItemHint_LongZhiHun
+15	Сердце Дракона	0866	23,24	2	ItemHint_LongZhiXin
+16	Самоцвет Души	1012	1,2,3	4	ItemHint_GaNaZhiShen
+17	Желтый Нефрит	5750	20	2	ItemHint_HuangYu
+18	Красный Нефрит	5751	20	2	ItemHint_ChiYu
+19	Зеленый Нефрит	5752	20	2	ItemHint_QingYu
+20	Аура Чиатана	5771	20	1	ItemHint_XTLingGuang
+21	Удар Лока	5772	23	1	ItemHint_LKBiZhong
+22	Уклонение Бинга	5773	24	2	ItemHint_BBDuoShan
+23	Защита Фенга	5774	22,27	2	ItemHint_FFDiYu
+24	Усиление Акулы	5775	22,11,27	4	ItemHint_XKQiangHua
+25	Сила Мёртвого	5845	1,2,3	1	ItemHint_SShuiyao
+26	Тело Мёртвого	5846	22,27	2	ItemHint_SSbusi
+27	Дух Мёртвого	5847	1,2,3	1	ItemHint_SSguangmang
+28	Точность Мёртвого	5848	1,2,3	1	ItemHint_SSningju
+29	Ловкость Мёртвого	5849	24	4	ItemHint_SSxuanwu
+30	Сломанный Самоцвет Ветра	6817	24	4	ItemHint_HLS
+31	Треснутый Самоцвет Ветра	6818	24	4	ItemHint_HYS
+32	Ловкость Новичка	6819	24	4	ItemHint_HJS
+33	Сломанный Самоцвет Удара	6820	23	4	ItemHint_BLS
+34	Треснутый Самоцвет Удара	6821	23	4	ItemHint_BYS
+35	Точность Новичка	6822	23	4	ItemHint_BJS
+36	Сломанный Самоцвет Колосса	6823	11,22,27	4	ItemHint_CLS
+37	Треснутый Самоцвет Колосса	6824	11,22,27	4	ItemHint_CYS
+38	Тело Новичка	6825	11,22,27	4	ItemHint_CJS
+39	Сломанный Самоцвет Ярости	6826	1,2,3	4	ItemHint_ZLS
+40	Треснутый Самоцвет Ярости	6827	1,2,3	4	ItemHint_ZYS
+41	Сила Новичка	6828	1,2,3	4	ItemHint_ZJS
+42	Сломанный Самоцвет Души	6829	1,2,3	4	ItemHint_QLS
+43	Треснутый Самоцвет Души	6830	1,2,3	4	ItemHint_QYS
+44	Дух Новичка	6831	1,2,3	4	ItemHint_QJS
+
+45	Великий Самоцвет Ярости	7108	1,2,3	4	ItemHint_GGR
+46	Великий Самоцвет Души	7109	1,2,3	4	ItemHint_GGS
+47	Великий Самоцвет Удара	7110	23	4	ItemHint_GGOS
+48	Великий Самоцвет Колосса	7111	11,22,27	4	ItemHint_GGC
+49	Великий Самоцвет Ветра	7112	24	4	ItemHint_GGW
+
+50	Великий Самоцвет Ярости	7615	1,2,3	4	ItemHint_TTGGR
+51	Великий Самоцвет Души	7616	1,2,3	4	ItemHint_TTGGS
+52	Великий Самоцвет Удара	7617	23	4	ItemHint_TTGGOS
+53	Великий Самоцвет Колосса	7618	11,22,27	4	ItemHint_TTGGC
+54	Великий Самоцвет Ветра	7619	24	4	ItemHint_TTGGW
+55	Мифический Самоцвет Ярости	7820	20	2	ItemHint_TTGGRT
+56	Мифический Самоцвет Души	7821	20	2	ItemHint_TTGGST
+57	Мифический Самоцвет Удара	7822	20	2	ItemHint_TTGGOST
+58	Мифический Самоцвет Колосса	7823	20	2	ItemHint_TTGGCT
+59	Мифический Самоцвет Ветра	7824	20	2	ItemHint_TTGGWT
+60	Божественный Самоцвет Ярости	7925	1,2,3	4	ItemHint_TGGR
+61	Божественный Самоцвет Души	7926	1,2,3	4	ItemHint_TGGST
+62	Божественный Самоцвет Удара	7927	23	4	ItemHint_TGGOST
+63	Божественный Самоцвет Колосса	7928	11,22,27	4	ItemHint_TGGCT
+64	Божественный Самоцвет Ветра	7929	24	4	ItemHint_TGGWT
+

@@ -1,0 +1,6 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	7200,6200	-1	hell	22000,3600	1	Lv5 to Lv6
+5	193	1	19100,6200	-1	hell	21900,22000	1	Lv6 to Lv7
+9	193	1	19000,17900	-1	hell	9600,21600	1	Lv7 to Lv8
+10	193	1	7200,17900	-1	hell3	2800,15000	1	Lv8 to Lv10
+

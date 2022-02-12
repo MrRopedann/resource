@@ -1,0 +1,3 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+2	Ёльза	1	804	7	26300,20400	26300,20400	180	Ља”ьµЇ	142	0	t_elizatp	0
+

@@ -1,0 +1,20 @@
+0	<--	1	1328	0	9500,14700		9500,14700		90	Hell Chapter	270	0	Hell_tele01		0
+1	-->	1	1328	0	8900,14700		8900,14700		270	Hell Chapter	90	0	Hell_tele02		0
+2	<--	1	1328	0	9500,9900		9500,9900		90	Hell Chapter	270	0	Hell_tele03		0
+3	-->	1	1328	0	8900,9900		8900,9900		270	Hell Chapter	90	0	Hell_tele04		0
+4	-->	1	1328	0	16000,9900		16000,9900		270	Hell Chapter	90	0	Hell_tele05		0
+5	<--	1	1328	0	16500,9900		16500,9900		90	Hell Chapter	270	0	Hell_tele06		0
+6	-->	1	1328	0	16000,14700		16000,14700		270	Hell Chapter	90	0	Hell_tele07		0
+7	<--	1	1328	0	16400,14700		16400,14700		90	Hell Chapter	270	0	Hell_tele08		0
+8	^^^	1	1328	0	23700,12300		23700,12200		354	Hell Chapter	180	0	Hell_tele09		0
+9	vvv	1	1328	0	23700,11600		23700,11900		180	Hell Chapter	354	0	Hell_tele10		0
+10	<--	1	1328	0	12900,3500		12900,3500		90	Hell Chapter	270	0	Hell_tele11		0
+11	--> 	1	1328	0	12600,3500		12600,3500		270	Hell Chapter	90	0	Hell_tele12		0
+12	vvv	1	1328	0	1400,11900		1400,11900		354	Hell Chapter	354	0	Hell_tele13		0
+13	^^^	1	1328	0	1400,12400		1400,12300		180	Hell Chapter	180	0	Hell_tele14		0
+14	-->	1	1328	0	12500,21400		12500,21400		270	Hell Chapter	90	0	Hell_tele15		0
+15	<--	1	1328	0	13100,21400		13100,21400		90	Hell Chapter	270	0	Hell_tele16		0
+16	Комната Асмодея	1	1328	0	6900,3400		6900,3400		90	Hell Chapter	270	0	Hell_tele17		0
+17	Комната Люцифера	1	1328	0	18000,3500		18000,3500		270	Hell Chapter	90	0	Hell_tele18		0
+18	Комната Левиафана	1	1328	0	7300,21400		7300,21400		90	Hell Chapter	270	0	Hell_tele19		0
+19	Комната Бельфегора	1	1328	0	17800,21400		17800,21400		270	Hell Chapter	90	0	Hell_tele20		0

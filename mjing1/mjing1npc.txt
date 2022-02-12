@@ -1,0 +1,3 @@
+//scripted by skyfear919@hotmail.com
+1	Guardian remains bright	1	535	7	37600,37600	37600,37600	180	光明秘境第一境界	183	0	d_talk24	0
+2	Virgin	1	1080	0	37700,41700	37700,41700	270	光明秘境第一境界	183	0	d_talk25	0

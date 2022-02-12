@@ -1,0 +1,14 @@
+return {
+-- Table: {1}
+{
+   ["Kill1K"]=0,
+   ["Kill25K"]=0,
+   ["Kill50K"]=0,
+   ["Kill100K"]=0,
+   ["Kill5K"]=0,
+   ["Kill10K"]=0,
+   ["KillNum"]=95,
+   ["Kill500K"]=0,
+   ["Kill200K"]=0,
+},
+}

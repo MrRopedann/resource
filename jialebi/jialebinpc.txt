@@ -1,0 +1,10 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Слуга 1 Абаддона	1	423	7	15200,78500	15200,78500	90	Abaddon 1	107	0	t_abaddonn	0
+2	Слуга 2 Абаддона	1	424	7	3200,78500	3200,78500	90	Abaddon 2	107	0	t_abaddonn2	0
+3	Слуга 3 Абаддона	1	425	7	3200,90500	3200,90500	90	Abaddon 3	107	0	t_abaddonn3	0
+4	Слуга 4 Абаддона	1	425	7	15200,90500	15200,90500	90	Abaddon 4	107	0	t_abaddonn4	0
+5	Богиня	1	262	7	176300,90700	176300,90700	269	Heaven	103	0	mmm_talk30	0
+6	Первое Перерождение	1	284	7	176300,91200	176300,91200	269	Heaven	103	0	zsts_talk	0
+7	Диана	1	774	7	107300,13500	107300,13500	180	Research Shelter	103	0	t_diana	0
+8	Второе Перерождение	1	284	7	176300,91600	176300,91600	269	Heaven	103	0	zstd_talk	0
+9	Третье Перерождение	1	284	7	176300,92000	176300,92000	269	Heaven	103	0	zstt_talk	0

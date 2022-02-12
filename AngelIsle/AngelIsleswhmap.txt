@@ -1,0 +1,3 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	17400,16700	-1	Pkteam	29300,20100	1	Pkteam
+2	193	1	30400,20100	-1	Pkteam	17400,17300	1	Pkteam

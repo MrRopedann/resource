@@ -1,0 +1,73 @@
+//Outside
+1	Boat Rides - Trawlie	1	569	7	70000,44900	70000,44900	90	Argent City	1	0	trawlie	0
+2	Vestonian Guard	1	5	0	59100, 92400	59100, 92400	270	zerdonia	1	0	sv_2	0
+3	Vestonian Guard	1	5	0	59100, 91500	59100, 91500	270	zerdonia	1	0	sv_3	0
+4	Phillie	1	14	0	27000, 63600	27000, 63600	90	zerdonia	1	0	sv_4	0
+5	Dave	1	19	0	26200, 64600	26200, 64600	0	zerdonia	1	0	sv_5	0
+//Haidron
+6	Banker	1	16	4	34700, 89200	34700, 89200	90	zerdonia	1	0	r_talk13	0
+7	Crate Buyer	1	15	12	35100, 85800	35100, 85800	90	zerdonia	1	0	sv_7	0
+8	Master Blacksmith	1	22	1	46100, 84500	46100, 84500	0	zerdonia	1	0	r_trade01	0
+9	Fire	1	867	0	39100, 88300	39100, 88300	0	zerdonia	1	0	kald15	0
+10	Mayor	1	756	15	40300, 86700	40300, 86700	270	zerdonia	1	0	sv_10	0
+11	Tool Trader	1	759	12	42100, 92600	42100, 92600	90	zerdonia	1	0	kald3	0
+12	Crystal Specialist	1	738	0	39000, 87600	39000, 87600	0	zerdonia	1	0	sv_12	0
+13	Ticket Seller	1	737	7	39200, 86300	39200, 86300	180	zerdonia	1	0	r_talkTic2	0
+14	Grocery	1	732	0	40700, 89900	40700, 89900	0	zerdonia	1	0	r_talk07	0
+15	Metal-Craft Item Seller	1	14	4	38800,92300	38800,92300	90	zerdonia	1	0	tekku2		0
+16	Metal Furnace 	1	882	4	34000,95200	34000,95200	90	zerdonia	1	0	tekku3	0
+17	Gem Combiner - Ryu	1	408	4	46600,83400	46600,83400	270	zerdonia	1	0	r_talk55	0
+18	lv4 Gem Combiner - Kai	1	883	4	46500,84700	46500,84700	45	zerdonia	1	0	deku_02	0
+19	Food Trader	1	409	0	39500, 87700	39500, 87700	0	zerdonia	1	0	sv_19	0
+20	Ore Merchant	1	10	4	46700, 90100	46700, 90100	180	zerdonia	1	0	kald1	0
+21	Jake	1	403	0	45600, 90400	45600, 90400	0	zerdonia	1	0	sv_21	0
+22	Rusty	1	402	0	42500, 88100	42500, 88100	0	zerdonia	1	0	sv_22	0
+23	Eddy	1	414	0	41900, 85700	41900, 85700	0	zerdonia	1	0	sv_23	0
+24	Joey	1	403	0	39300, 87000	39300, 87000	0	zerdonia	1	0	sv_24	0
+//Vestonia
+25	Vestonian Guard	1	5	0	82100, 83700	82100, 83700	180	zerdonia	1	0	sv_25	0
+26	Vestonian Guard	1	5	0	82700, 84400	82700, 84400	270	zerdonia	1	0	sv_26	0
+27	Mayor	1	19	15	88200, 78400	82200, 78400	225	zerdonia	1	0	sv_27	0
+28	Banker	1	16	4	87200, 76600	87200, 76600	135	zerdonia	1	0	r_talk13	0
+29	Boat Rides - Trawlie	1	569	9	98700,78500	98700,78500	270	zerdionia	1	0	trawlie	0
+30	Ship Builder	1	10	9	95000, 77000	95000, 77000	270	zerdonia	1	0	sv_30	0
+31	Harbor Operator	1	15	9	97300, 75900	97300, 75900	180	zerdonia	1	0	sv_31	0
+32	Fish Merchant	1	30	4	89200, 73100	89200, 73100	225	zerdonia	1	0	kald2	0
+33	Grocery	1	413	4	83500, 75400	89200, 73100	90	zerdonia	1	0	r_talk07	0
+34	Historian	1	420	0	83600, 78500	83600, 78500	90	zerdonia	1	0	sv_34	0
+35	Physican	1	26	12	90800, 81500	90800, 81500	90	zerdonia	1	0	r_talk03	0
+36	Blacksmith	1	21	1	85500, 82800	85500, 82800	0	zerdonia	1	0	r_trade01	0
+37	Gem Combiner - Gin	1	408	4	85000,82900	85000,82900	45	zerdonia	1	0	r_talk55	0
+38	lv4 Gem Combiner - Cio	1	883	4	86500,82000	86500,82000	45	zerdonia	1	0	deku_02	0
+39	Tool Trader	1	410	4	83500, 75300	83500, 75300	90	zerdonia	1	0	kald3	0
+40	Fire	1	867	0	84900, 72700	84900, 72700	0	zerdonia	1	0	kald15	0
+41	Food Trader	1	17	4	84800, 73000	84800, 73000	135	zerdonia	1	0	sv_19	0
+42	Ticket Merchant	1	26	4	86900, 71500	86900, 71500	225	zerdonia	1	0	r_talkTic3	0
+43	Pirate	1	569	0	85600, 75400	85600, 75400	0	zerdonia	1	0	sv_43	0
+44	Pirate	1	570	0	86600, 78700	86600, 78700	0	zerdonia	1	0	sv_43	0
+45	Pirate	1	571	0	85100, 81200	85100, 81200	0	zerdonia	1	0	sv_43	0
+46	Pirate	1	570	0	91300, 78000	91300, 78000	0	zerdonia	1	0	sv_43	0
+47	Pirate	1	569	0	94200, 77400	94200, 77400	0	zerdonia	1	0	sv_43	0
+//Kalon
+48	Ship Builder	1	10	9	70700, 40200	70700, 40200	0	zerdonia	1	0	sv_48	0
+49	Harbor Operator	1	30	9	68400, 42700	68400, 42700	270	zerdonia	1	0	sv_49	0
+50	Fire	1	867	0	69600, 36700	69600, 36700	0	zerdonia	1	0	kald15	0
+51	Citizen	1	738	0	65700, 38400	65700, 38400	45	zerdonia	1	0	sv_51	0
+52	Ticket Seller	1	17	4	72800, 38900	72800, 38900	270	zerdonia	1	0	r_talkTic4	0
+53	Boarding Passes - Dekan	1	449	12	69300, 40300	69300, 40300	0	zerdonia	1	0	sv_53	0
+54	Grocery	1	450	12	65900, 39400	65900, 39400	90	zerdonia	1	0	r_talk07	0
+55	Badlands Explorer	1	12	0	75700, 35500	75700, 35500	270	zerdonia	1	0	sv_55	0
+56	Food Trader	1	19	4	68900, 36900	68900, 36900	180	zerdonia	1	0	sv_19	0
+//Zaidron
+57	Mayor	1	416	15	26600, 26000	26600, 26000	90	zerdonia	1	0	sv_57	0
+58	Relic	1	420	0	26100, 23900	26100, 23900	135	zerdonia	1	0	sv_58	0
+59	Fire	1	867	0	24000, 23400	24000, 23400	0	zerdonia	1	0	kald15	0
+60	Food Seller	1	421	12	24300, 23200	24300, 23200	270	zerdonia	1	0	sv_19	0
+61	Banker	1	16	4	28400, 28000	28400, 28000	45	zerdonia	1	0	r_talk13	0
+62	Ticket Seller	1	737	7	19500, 28400	19500, 28400	135	zerdonia	1	0	r_talkTic5	0
+63	Grocery	1	732	0	22000, 23100	22000, 23100	135	zerdonia	1	0	r_talk07	0
+64	Crate Buyer	1	15	12	21800, 30600	21800, 30600	0	zerdonia	1	0	sv_7	0
+66	Crazy Scientist	1	759	0	3700, 15800	3700, 15800	90	zerdonia	1	0	sv_66	0
+//Shandon
+67	Pete the Legendary	1	792	0	58200, 57700	58200, 57700	90	zerdonia	1	0	sv_67	0
+68	Boat Rides - Trawlie	1	569	7	58800,56400	58800,56400	180	Argent City	1	0	trawlie	0

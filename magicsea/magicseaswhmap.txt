@@ -1,0 +1,6 @@
+1	2492	1	68400,85100	-1	jialebi	108000,21000	1	Magical Ocean - Caribbean
+2	2492	1	91400,348700	-1	magicsea	252700,239900	1	Magical Ocean - Caribbean
+3	2492	1	248700,64000	-1	magicsea	247400,67900	1	Magical Ocean - Caribbean
+4	2492	1	247300,67800	-1	magicsea	248600,64100	1	Magical Ocean - Caribbean
+5	2492	1	108000,48700	-1	eastgoaf	11500,2900	1	Magical Ocean - Caribbean
+

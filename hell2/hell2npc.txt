@@ -1,0 +1,5 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Странник	1	828	7	2491,8000	2491,8000	107	Abaddon	86	0	dydz_talk	0
+2	Странник 2 уровня	1	828	7	23000,2400	23000,2400	108	Abaddon	86	0	dydz_talk	0
+3	Странник 3 уровня 	1	828	7	22700,22400	22700,22400	109	Abaddon	86	0	dydz_talk	0
+4	Странник 4 уровня 	1	828	7	10700,22400	10700,22400	110	Abaddon	86	0	dydz_talk	0

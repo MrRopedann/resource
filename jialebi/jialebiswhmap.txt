@@ -1,0 +1,5 @@
+//Treasure Gulf, Naval Base, Skeletar Island, Abaddon 1-4 portal list							
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	2492	1	158200,110900	-1	jialebi	107400,13700	1	с 2 этажа на 1
+2	2492	1	173100,113900	-1	jialebi	96800,99300	1	с 2 этажа на 3
+3	2492	1	96900,98700	-1	jialebi	173100,113900	1	с 3 этажа на 2

@@ -1,0 +1,6 @@
+1	193	1	6600,21400	-1	Hellchapter	7900,21400	1	Hellchapter
+2	193	1	6000,3500	-1	Hellchapter	7600,3400	1	Hellchapter
+3	193	1	19000,3600	-1	Hellchapter	17200,3500	1	Hellchapter
+4	193	1	18700,21400	-1	Hellchapter	17100,21400	1	Hellchapter
+
+

@@ -1,0 +1,161 @@
+--Attributes Growth Rate of Sailor Class
+		Mxhp_con_rad1[JOB_TYPE_SHUISHOU], Mxhp_con_rad2[JOB_TYPE_SHUISHOU], Mxhp_lv_rad[JOB_TYPE_SHUISHOU]	= 3, 2, 15							--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_SHUISHOU], Mxsp_sta_rad2[JOB_TYPE_SHUISHOU], Mxsp_lv_rad[JOB_TYPE_SHUISHOU]	= 0.5, 0.5, 1							--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_SHUISHOU], Mnatk_str_rad2[JOB_TYPE_SHUISHOU], Mnatk_dex_rad1[JOB_TYPE_SHUISHOU], Mnatk_dex_rad2[JOB_TYPE_SHUISHOU]	= 0.9, 0.9, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_SHUISHOU], Mxatk_str_rad2[JOB_TYPE_SHUISHOU], Mxatk_dex_rad1[JOB_TYPE_SHUISHOU], Mxatk_dex_rad2[JOB_TYPE_SHUISHOU]	= 0.9, 0.9, 0, 0 	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_SHUISHOU], Def_con_rad2[JOB_TYPE_SHUISHOU]	= 0.45, 0.45 											--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_SHUISHOU], Hit_dex_rad2[JOB_TYPE_SHUISHOU]	= 0.31, 0.15 											--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_SHUISHOU], Flee_agi_rad2[JOB_TYPE_SHUISHOU]	= 0.31, 0.15											--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_SHUISHOU]	= 0.39 																	--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_SHUISHOU]	= 0.31																	--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_SHUISHOU], Hrec_con_rad[JOB_TYPE_SHUISHOU]	= 1/200, 1/100											--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_SHUISHOU], Srec_sta_rad[JOB_TYPE_SHUISHOU]	= 1/200, 1/120											--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_SHUISHOU] = 1.1   																--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率				--
+		Str_updata[JOB_TYPE_SHUISHOU]	= 0.2 
+		Dex_updata[JOB_TYPE_SHUISHOU]	= 0.1 
+		Con_updata[JOB_TYPE_SHUISHOU]	= 0.6 
+		Agi_updata[JOB_TYPE_SHUISHOU]	= 0.1 
+		Sta_updata[JOB_TYPE_SHUISHOU]	= 0.1 
+		Luk_updata[JOB_TYPE_SHUISHOU]	= 0.1 
+		
+--Attributes Growth Rate of Artisan Class
+		Mxhp_con_rad1[JOB_TYPE_JISHI], Mxhp_con_rad2[JOB_TYPE_JISHI], Mxhp_lv_rad[JOB_TYPE_JISHI]	= 2, 2, 10 						--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_JISHI], Mxsp_sta_rad2[JOB_TYPE_JISHI], Mxsp_lv_rad[JOB_TYPE_JISHI]	= 0.5, 0.5, 1						--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_JISHI], Mnatk_str_rad2[JOB_TYPE_JISHI], Mnatk_dex_rad1[JOB_TYPE_JISHI], Mnatk_dex_rad2[JOB_TYPE_JISHI]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_JISHI], Mxatk_str_rad2[JOB_TYPE_JISHI], Mxatk_dex_rad1[JOB_TYPE_JISHI], Mxatk_dex_rad2[JOB_TYPE_JISHI]	= 0.8, 0.8, 0, 0 	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_JISHI], Def_con_rad2[JOB_TYPE_JISHI]	= 0.5, 0.5 										--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_JISHI], Hit_dex_rad2[JOB_TYPE_JISHI]	= 0.31, 0.15 										--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_JISHI], Flee_agi_rad2[JOB_TYPE_JISHI]	= 0.31, 0.15										--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_JISHI]	= 0.39 															--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_JISHI]	= 0.31															--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_JISHI], Hrec_con_rad[JOB_TYPE_JISHI]	= 1/200, 1/100										--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_JISHI],Srec_sta_rad[JOB_TYPE_JISHI]	= 1/200, 1/120										--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_JISHI]	= 1.1   												 		--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_JISHI]	= 0.4 
+		Dex_updata[JOB_TYPE_JISHI]	= 0.1 
+		Con_updata[JOB_TYPE_JISHI]	= 0.5 
+		Agi_updata[JOB_TYPE_JISHI]	= 0.1 
+		Sta_updata[JOB_TYPE_JISHI]	= 0.1 
+		Luk_updata[JOB_TYPE_JISHI]	= 0.2 
+
+--Attributes Growth Rate of Merchant Class
+		Mxhp_con_rad1[JOB_TYPE_SHANGREN], Mxhp_con_rad2[JOB_TYPE_SHANGREN], Mxhp_lv_rad[JOB_TYPE_SHANGREN]	= 2, 2, 10 							--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_SHANGREN], Mxsp_sta_rad2[JOB_TYPE_SHANGREN], Mxsp_lv_rad[JOB_TYPE_SHANGREN]	= 0.5, 0.5, 1							--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_SHANGREN], Mnatk_str_rad2[JOB_TYPE_SHANGREN], Mnatk_dex_rad1[JOB_TYPE_SHANGREN], Mnatk_dex_rad2[JOB_TYPE_SHANGREN]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_SHANGREN], Mxatk_str_rad2[JOB_TYPE_SHANGREN], Mxatk_dex_rad1[JOB_TYPE_SHANGREN], Mxatk_dex_rad2[JOB_TYPE_SHANGREN]	= 0.8, 0.8, 0, 0	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_SHANGREN], Def_con_rad2[JOB_TYPE_SHANGREN]	= 0.5, 0.5 											--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_SHANGREN], Hit_dex_rad2[JOB_TYPE_SHANGREN]	= 0.31, 0.15 											--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_SHANGREN], Flee_agi_rad2[JOB_TYPE_SHANGREN]	= 0.31, 0.15											--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_SHANGREN]	= 0.39 																	--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_SHANGREN]	= 0.31																	--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_SHANGREN], Hrec_con_rad[JOB_TYPE_SHANGREN]	= 1/200, 1/100											--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_SHANGREN], Srec_sta_rad[JOB_TYPE_SHANGREN]	= 1/200, 1/120											--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_SHANGREN] = 1.1   												 				--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_SHANGREN]	= 0.3 
+		Dex_updata[JOB_TYPE_SHANGREN]	= 0.1 
+		Con_updata[JOB_TYPE_SHANGREN]	= 0.5 
+		Agi_updata[JOB_TYPE_SHANGREN]	= 0.1 
+		Sta_updata[JOB_TYPE_SHANGREN]	= 0.1 
+		Luk_updata[JOB_TYPE_SHANGREN]	= 0.1 
+		
+--Attributes Growth Rate of White Knight Class
+		Mxhp_con_rad1[JOB_TYPE_JIANDUNSHI], Mxhp_con_rad2[JOB_TYPE_JIANDUNSHI], Mxhp_lv_rad[JOB_TYPE_JIANDUNSHI]	= 2, 2, 10 							--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_JIANDUNSHI], Mxsp_sta_rad2[JOB_TYPE_JIANDUNSHI], Mxsp_lv_rad[JOB_TYPE_JIANDUNSHI]	= 0.5, 0.5, 1							--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_JIANDUNSHI], Mnatk_str_rad2[JOB_TYPE_JIANDUNSHI], Mnatk_dex_rad1[JOB_TYPE_JIANDUNSHI], Mnatk_dex_rad2[JOB_TYPE_JIANDUNSHI]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_JIANDUNSHI], Mxatk_str_rad2[JOB_TYPE_JIANDUNSHI], Mxatk_dex_rad1[JOB_TYPE_JIANDUNSHI], Mxatk_dex_rad2[JOB_TYPE_JIANDUNSHI]	= 0.8, 0.8, 0, 0	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_JIANDUNSHI], Def_con_rad2[JOB_TYPE_JIANDUNSHI]	= 0.5, 0.5 												--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_JIANDUNSHI], Hit_dex_rad2[JOB_TYPE_JIANDUNSHI]	= 0.31, 0.15 												--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_JIANDUNSHI], Flee_agi_rad2[JOB_TYPE_JIANDUNSHI]	= 0.31, 0.15												--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_JIANDUNSHI]		= 0.39 																	--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_JIANDUNSHI]	= 0.31																	--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_JIANDUNSHI], Hrec_con_rad[JOB_TYPE_JIANDUNSHI]	= 1/200, 1/100												--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_JIANDUNSHI], Srec_sta_rad[JOB_TYPE_JIANDUNSHI]	= 1/200, 1/120												--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_JIANDUNSHI]	= 1.1   												 				--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_JIANDUNSHI]		= 0.3 
+		Dex_updata[JOB_TYPE_JIANDUNSHI]		= 0.1 
+		Con_updata[JOB_TYPE_JIANDUNSHI]		= 0.5 
+		Agi_updata[JOB_TYPE_JIANDUNSHI]		= 0.1 
+		Sta_updata[JOB_TYPE_JIANDUNSHI]		= 0.1 
+		Luk_updata[JOB_TYPE_JIANDUNSHI]		= 0.1 
+
+
+--Attributes Growth Rate of Animal Tamer Class
+		Mxhp_con_rad1[JOB_TYPE_XUNSHOUSHI], Mxhp_con_rad2[JOB_TYPE_XUNSHOUSHI], Mxhp_lv_rad[JOB_TYPE_XUNSHOUSHI]	= 2, 2, 10 							--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_XUNSHOUSHI], Mxsp_sta_rad2[JOB_TYPE_XUNSHOUSHI], Mxsp_lv_rad[JOB_TYPE_XUNSHOUSHI]	= 0.5, 0.5, 1							--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_XUNSHOUSHI], Mnatk_str_rad2[JOB_TYPE_XUNSHOUSHI], Mnatk_dex_rad1[JOB_TYPE_XUNSHOUSHI], Mnatk_dex_rad2[JOB_TYPE_XUNSHOUSHI]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_XUNSHOUSHI], Mxatk_str_rad2[JOB_TYPE_XUNSHOUSHI], Mxatk_dex_rad1[JOB_TYPE_XUNSHOUSHI], Mxatk_dex_rad2[JOB_TYPE_XUNSHOUSHI]	= 0.8, 0.8, 0, 0	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_XUNSHOUSHI], Def_con_rad2[JOB_TYPE_XUNSHOUSHI]	= 0.5, 0.5 												--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_XUNSHOUSHI], Hit_dex_rad2[JOB_TYPE_XUNSHOUSHI]	= 0.31, 0.15 												--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_XUNSHOUSHI], Flee_agi_rad2[JOB_TYPE_XUNSHOUSHI]	= 0.5, 0.15												--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_XUNSHOUSHI]		= 0.39 																	--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_XUNSHOUSHI]	= 0.31																	--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_XUNSHOUSHI], Hrec_con_rad[JOB_TYPE_XUNSHOUSHI]	= 1/200, 1/100												--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_XUNSHOUSHI], Srec_sta_rad[JOB_TYPE_XUNSHOUSHI]	= 1/200, 1/120												--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_XUNSHOUSHI]	= 1.2   												 				--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_XUNSHOUSHI]		= 0.3 
+		Dex_updata[JOB_TYPE_XUNSHOUSHI]		= 0.1 
+		Con_updata[JOB_TYPE_XUNSHOUSHI]		= 0.5 
+		Agi_updata[JOB_TYPE_XUNSHOUSHI]		= 0.1 
+		Sta_updata[JOB_TYPE_XUNSHOUSHI]		= 0.1 
+		Luk_updata[JOB_TYPE_XUNSHOUSHI]		= 0.1 
+		
+--Attributes Growth Rate of Captain Class
+		Mxhp_con_rad1[JOB_TYPE_CHUANZHANG], Mxhp_con_rad2[JOB_TYPE_CHUANZHANG], Mxhp_lv_rad[JOB_TYPE_CHUANZHANG]	= 2, 2, 10 							--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_CHUANZHANG], Mxsp_sta_rad2[JOB_TYPE_CHUANZHANG], Mxsp_lv_rad[JOB_TYPE_CHUANZHANG]	= 0.5, 0.5, 1							--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_CHUANZHANG], Mnatk_str_rad2[JOB_TYPE_CHUANZHANG], Mnatk_dex_rad1[JOB_TYPE_CHUANZHANG], Mnatk_dex_rad2[JOB_TYPE_CHUANZHANG]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_CHUANZHANG], Mxatk_str_rad2[JOB_TYPE_CHUANZHANG], Mxatk_dex_rad1[JOB_TYPE_CHUANZHANG], Mxatk_dex_rad2[JOB_TYPE_CHUANZHANG]	= 0.8, 0.8, 0, 0	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_CHUANZHANG], Def_con_rad2[JOB_TYPE_CHUANZHANG]	= 0.5, 0.5 												--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_CHUANZHANG], Hit_dex_rad2[JOB_TYPE_CHUANZHANG]	= 0.31, 0.15 												--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_CHUANZHANG], Flee_agi_rad2[JOB_TYPE_CHUANZHANG]	= 0.31, 0.15												--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_CHUANZHANG]		= 0.39 																	--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_CHUANZHANG]	= 0.31																	--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_CHUANZHANG], Hrec_con_rad[JOB_TYPE_CHUANZHANG]	= 1/200, 1/100												--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_CHUANZHANG], Srec_sta_rad[JOB_TYPE_CHUANZHANG] = 1/200, 1/120												--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_CHUANZHANG]	= 1.1   												 				--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_CHUANZHANG]		= 0.3 
+		Dex_updata[JOB_TYPE_CHUANZHANG]		= 0.1 
+		Con_updata[JOB_TYPE_CHUANZHANG]		= 0.5 
+		Agi_updata[JOB_TYPE_CHUANZHANG]		= 0.1 
+		Sta_updata[JOB_TYPE_CHUANZHANG]		= 0.1 
+		Luk_updata[JOB_TYPE_CHUANZHANG]		= 0.1 
+
+--Attributes Growth Rate of Upstart Class
+		Mxhp_con_rad1[JOB_TYPE_BAOFAHU], Mxhp_con_rad2[JOB_TYPE_BAOFAHU], Mxhp_lv_rad[JOB_TYPE_BAOFAHU]	= 2, 2, 10 							--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_BAOFAHU], Mxsp_sta_rad2[JOB_TYPE_BAOFAHU], Mxsp_lv_rad[JOB_TYPE_BAOFAHU]	= 0.5, 0.5, 1							--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_BAOFAHU], Mnatk_str_rad2[JOB_TYPE_BAOFAHU], Mnatk_dex_rad1[JOB_TYPE_BAOFAHU], Mnatk_dex_rad2[JOB_TYPE_BAOFAHU]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_BAOFAHU], Mxatk_str_rad2[JOB_TYPE_BAOFAHU], Mxatk_dex_rad1[JOB_TYPE_BAOFAHU], Mxatk_dex_rad2[JOB_TYPE_BAOFAHU]	= 0.8, 0.8, 0, 0	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_BAOFAHU], Def_con_rad2[JOB_TYPE_BAOFAHU]		= 0.5, 0.5 										--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_BAOFAHU], Hit_dex_rad2[JOB_TYPE_BAOFAHU]		= 0.31, 0.15 										--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_BAOFAHU], Flee_agi_rad2[JOB_TYPE_BAOFAHU]	= 0.31, 0.15										--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_BAOFAHU]	= 0.39 																--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_BAOFAHU]	= 0.31																--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_BAOFAHU], Hrec_con_rad[JOB_TYPE_BAOFAHU]	= 1/200, 1/100										--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_BAOFAHU], Srec_sta_rad[JOB_TYPE_BAOFAHU]	= 1/200, 1/120										--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_BAOFAHU]	= 1.1   												 			--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_BAOFAHU]	= 0.3 
+		Dex_updata[JOB_TYPE_BAOFAHU]	= 0.1 
+		Con_updata[JOB_TYPE_BAOFAHU]	= 0.5 
+		Agi_updata[JOB_TYPE_BAOFAHU]	= 0.1 
+		Sta_updata[JOB_TYPE_BAOFAHU]	= 0.1 
+		Luk_updata[JOB_TYPE_BAOFAHU]	= 0.1 
+
+
+--Attributes Growth Rate of Engineer Class
+		Mxhp_con_rad1[JOB_TYPE_GONGCHENGSHI], Mxhp_con_rad2[JOB_TYPE_GONGCHENGSHI], Mxhp_lv_rad[JOB_TYPE_GONGCHENGSHI]	= 2, 2, 10 								--最大hp的属性影响系数：体质系数、等级系数、基本数
+		Mxsp_sta_rad1[JOB_TYPE_GONGCHENGSHI], Mxsp_sta_rad2[JOB_TYPE_GONGCHENGSHI], Mxsp_lv_rad[JOB_TYPE_GONGCHENGSHI]	= 0.5, 0.5, 1								--最大sp的属性影响系数：精力系数、体质系数、等级系数
+		Mnatk_str_rad1[JOB_TYPE_GONGCHENGSHI], Mnatk_str_rad2[JOB_TYPE_GONGCHENGSHI], Mnatk_dex_rad1[JOB_TYPE_GONGCHENGSHI], Mnatk_dex_rad2[JOB_TYPE_GONGCHENGSHI]	= 0.8, 0.8, 0, 0	--最小攻击力的属性影响系数：力量系数
+		Mxatk_str_rad1[JOB_TYPE_GONGCHENGSHI], Mxatk_str_rad2[JOB_TYPE_GONGCHENGSHI], Mxatk_dex_rad1[JOB_TYPE_GONGCHENGSHI], Mxatk_dex_rad2[JOB_TYPE_GONGCHENGSHI]	= 0.8, 0.8, 0, 0	--最大攻击的属性影响系数：力量系数
+		Def_con_rad1[JOB_TYPE_GONGCHENGSHI], Def_con_rad2[JOB_TYPE_GONGCHENGSHI]	= 0.5, 0.5 												--防御的属性影响系数：专注系数
+		Hit_dex_rad1[JOB_TYPE_GONGCHENGSHI], Hit_dex_rad2[JOB_TYPE_GONGCHENGSHI]	= 0.31, 0.15 												--命中的属性影响系数：专注系数、等级系数、最小命中率
+		Flee_agi_rad1[JOB_TYPE_GONGCHENGSHI], Flee_agi_rad2[JOB_TYPE_GONGCHENGSHI]	= 0.31, 0.15												--闪避的属性影响系数：敏捷系数、等级系数、最小闪避率
+		Mf_luk_rad[JOB_TYPE_GONGCHENGSHI]	= 0.39 																		--暴料率的属性影响系数：幸运系数
+		Crt_luk_rad[JOB_TYPE_GONGCHENGSHI]	= 0.31																		--暴击的属性影响系数：幸运系数、最小暴击率、最大暴击率
+		Hrec_bsmxhp_rad[JOB_TYPE_GONGCHENGSHI], Hrec_con_rad[JOB_TYPE_GONGCHENGSHI]	= 1/200, 1/100												--hp回复的属性影响系数：最大hp系数、等级系数、hp最小回复速度
+		Srec_bsmxsp_rad[JOB_TYPE_GONGCHENGSHI], Srec_sta_rad[JOB_TYPE_GONGCHENGSHI]	= 1/200, 1/120												--sp回复的属性影响系数：最大sp系数、等级系数、sp最小回复速度
+		Aspd_agi_rad[JOB_TYPE_GONGCHENGSHI]	= 1.1   												 					--攻击频率的属性影响系数：基础攻击、敏捷系数、最小攻击频率			
+		Str_updata[JOB_TYPE_GONGCHENGSHI]	= 0.3 
+		Dex_updata[JOB_TYPE_GONGCHENGSHI]	= 0.1 
+		Con_updata[JOB_TYPE_GONGCHENGSHI]	= 0.5 
+		Agi_updata[JOB_TYPE_GONGCHENGSHI]	= 0.1 
+		Sta_updata[JOB_TYPE_GONGCHENGSHI]	= 0.1 
+		Luk_updata[JOB_TYPE_GONGCHENGSHI]	= 0.1 

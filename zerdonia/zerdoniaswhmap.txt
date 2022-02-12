@@ -1,0 +1,4 @@
+1	193	1	26400,63600	-1	kisles	11400,11000	1	Silver Mine 1 to Silver Mine 2
+2	193	1	92100,51700	-1	undgz	3800,3000	1	Silver Mine 1 to Silver Mine 2
+3	193	1	59500,62600	-1	undgz	26000,32100	1	Silver Mine 1 to Silver Mine 2
+4	193	1	90000,85700	-1	undgz	44900,45600	1	Silver Mine 1 to Silver Mine 2
